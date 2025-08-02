@@ -1,0 +1,823 @@
+order_id,customer_id,order_date,total_amount,shipping_cost,shipping_address,status,payment_method,region,city
+1,346,2025-05-04,4267.04,38.56,"3898 Pine Rd, Los Angeles, California",shipped,paypal,California,Los Angeles
+2,685,2025-04-16,2664.35,35.48,"9276 Oak Ave, Los Angeles, California",pending,bank_transfer,California,Los Angeles
+3,407,2025-04-04,3140.8,22.7,"7262 Pine Rd, Los Angeles, California",pending,paypal,California,Los Angeles
+4,173,2025-03-07,1739.36,27.63,"4014 Oak Ave, Los Angeles, California",completed,paypal,California,Los Angeles
+5,420,2025-05-01,1706.62,49.31,"3628 Elm St, Los Angeles, California",shipped,bank_transfer,California,Los Angeles
+6,748,2025-05-05,230.57,27.69,"5622 Pine Rd, Los Angeles, California",shipped,paypal,California,Los Angeles
+7,843,2025-07-26,1671.89,46.41,"3661 Main St, Los Angeles, California",shipped,credit_card,California,Los Angeles
+8,157,2025-07-10,852.57,36.16,"2683 Elm St, Los Angeles, California",pending,credit_card,California,Los Angeles
+9,66,2025-03-14,1416.93,43.42,"9573 Elm St, Los Angeles, California",completed,credit_card,California,Los Angeles
+10,205,2025-04-17,4935.93,12.31,"2277 Elm St, Los Angeles, California",completed,bank_transfer,California,Los Angeles
+11,4,2025-03-08,2081.98,7.34,"3392 Elm St, Los Angeles, California",pending,paypal,California,Los Angeles
+12,220,2025-02-05,3451.39,30.26,"7900 Elm St, Los Angeles, California",pending,paypal,California,Los Angeles
+13,217,2025-07-17,2114.2,30.33,"5176 Oak Ave, Los Angeles, California",shipped,paypal,California,Los Angeles
+14,272,2025-07-19,1518.51,16.31,"4934 Oak Ave, Los Angeles, California",pending,bank_transfer,California,Los Angeles
+15,23,2025-04-03,4892.05,5.69,"5150 Pine Rd, San Francisco, California",shipped,credit_card,California,San Francisco
+16,266,2025-06-23,3616.79,27.94,"3663 Pine Rd, San Francisco, California",completed,credit_card,California,San Francisco
+17,568,2025-05-04,2087.6,37.55,"9918 Main St, San Francisco, California",shipped,paypal,California,San Francisco
+18,719,2025-05-12,129.11,17.55,"5593 Pine Rd, San Francisco, California",completed,credit_card,California,San Francisco
+19,418,2025-06-15,1563.63,39.45,"9202 Oak Ave, San Francisco, California",shipped,bank_transfer,California,San Francisco
+20,453,2025-06-02,736.98,14.42,"7170 Pine Rd, San Francisco, California",pending,bank_transfer,California,San Francisco
+21,123,2025-06-29,1954.15,33.99,"3342 Elm St, San Francisco, California",pending,paypal,California,San Francisco
+22,619,2025-02-08,749.01,5.02,"9084 Oak Ave, San Francisco, California",completed,paypal,California,San Francisco
+23,959,2025-02-16,2157.75,9.52,"7060 Oak Ave, San Francisco, California",completed,credit_card,California,San Francisco
+24,702,2025-03-08,3591.14,14.13,"3815 Main St, San Francisco, California",shipped,credit_card,California,San Francisco
+25,937,2025-05-27,4685.45,21.47,"5425 Elm St, San Francisco, California",completed,paypal,California,San Francisco
+26,104,2025-07-26,1640.95,11.36,"7553 Elm St, San Francisco, California",pending,paypal,California,San Francisco
+27,493,2025-06-03,3900.43,14.57,"1218 Main St, San Diego, California",completed,paypal,California,San Diego
+28,519,2025-03-02,628.11,48.86,"7197 Oak Ave, San Diego, California",completed,bank_transfer,California,San Diego
+29,956,2025-03-03,4491.4,42.52,"4579 Pine Rd, San Diego, California",pending,bank_transfer,California,San Diego
+30,235,2025-08-01,3800.34,13.45,"3741 Main St, San Diego, California",shipped,paypal,California,San Diego
+31,896,2025-06-20,4535.83,40.39,"4672 Oak Ave, San Diego, California",shipped,paypal,California,San Diego
+32,10,2025-07-09,1182.82,30.37,"4029 Oak Ave, San Diego, California",completed,bank_transfer,California,San Diego
+33,405,2025-07-17,3859.34,29.27,"8591 Oak Ave, Sacramento, California",pending,paypal,California,Sacramento
+34,478,2025-07-25,4252.61,14.89,"118 Oak Ave, Sacramento, California",shipped,bank_transfer,California,Sacramento
+35,196,2025-04-23,3043.54,45.81,"1924 Oak Ave, Sacramento, California",completed,bank_transfer,California,Sacramento
+36,679,2025-06-19,255.08,34.46,"9102 Pine Rd, Sacramento, California",shipped,credit_card,California,Sacramento
+37,750,2025-07-05,4827.53,42.93,"5208 Main St, Sacramento, California",shipped,bank_transfer,California,Sacramento
+38,811,2025-03-06,3677.18,43.65,"8224 Pine Rd, Sacramento, California",pending,bank_transfer,California,Sacramento
+39,155,2025-02-23,2006.85,31.0,"2004 Pine Rd, Sacramento, California",shipped,bank_transfer,California,Sacramento
+40,208,2025-06-04,3118.08,9.71,"7853 Pine Rd, Sacramento, California",pending,bank_transfer,California,Sacramento
+41,99,2025-02-28,3290.27,28.97,"8200 Elm St, Houston, Texas",pending,paypal,Texas,Houston
+42,757,2025-07-11,3366.97,8.8,"4278 Pine Rd, Houston, Texas",completed,credit_card,Texas,Houston
+43,205,2025-07-20,4036.79,20.76,"3009 Main St, Houston, Texas",shipped,credit_card,Texas,Houston
+44,994,2025-06-12,2322.12,49.68,"6426 Pine Rd, Houston, Texas",completed,bank_transfer,Texas,Houston
+45,672,2025-05-06,1573.66,45.88,"5028 Pine Rd, Houston, Texas",shipped,credit_card,Texas,Houston
+46,603,2025-04-24,696.83,8.83,"7071 Pine Rd, Houston, Texas",pending,paypal,Texas,Houston
+47,801,2025-03-01,1593.48,10.94,"5561 Elm St, Houston, Texas",pending,credit_card,Texas,Houston
+48,777,2025-07-01,1738.41,27.1,"9425 Main St, Houston, Texas",completed,credit_card,Texas,Houston
+49,462,2025-05-28,3202.27,26.69,"6447 Pine Rd, Houston, Texas",shipped,paypal,Texas,Houston
+50,229,2025-07-09,4540.91,27.03,"8083 Main St, Houston, Texas",pending,credit_card,Texas,Houston
+51,253,2025-07-08,4655.52,8.46,"5800 Main St, Houston, Texas",shipped,bank_transfer,Texas,Houston
+52,716,2025-07-28,357.92,11.54,"9916 Main St, Dallas, Texas",shipped,paypal,Texas,Dallas
+53,465,2025-05-20,116.56,38.58,"7149 Main St, Dallas, Texas",completed,credit_card,Texas,Dallas
+54,641,2025-07-20,3916.62,36.87,"6868 Elm St, Dallas, Texas",completed,bank_transfer,Texas,Dallas
+55,173,2025-05-27,501.47,5.52,"2492 Pine Rd, Dallas, Texas",shipped,bank_transfer,Texas,Dallas
+56,750,2025-04-12,734.78,45.88,"810 Pine Rd, Dallas, Texas",shipped,credit_card,Texas,Dallas
+57,474,2025-04-27,4539.2,46.4,"555 Oak Ave, Dallas, Texas",completed,paypal,Texas,Dallas
+58,965,2025-07-17,4516.03,35.61,"7101 Oak Ave, Dallas, Texas",shipped,bank_transfer,Texas,Dallas
+59,18,2025-07-10,1588.97,16.54,"5031 Pine Rd, Dallas, Texas",shipped,paypal,Texas,Dallas
+60,14,2025-07-10,3401.54,36.72,"4411 Oak Ave, Austin, Texas",shipped,bank_transfer,Texas,Austin
+61,442,2025-04-26,3554.36,49.9,"4903 Pine Rd, Austin, Texas",pending,paypal,Texas,Austin
+62,343,2025-06-17,2624.85,31.57,"4099 Pine Rd, Austin, Texas",completed,bank_transfer,Texas,Austin
+63,549,2025-04-05,1870.26,14.13,"2045 Main St, Austin, Texas",pending,bank_transfer,Texas,Austin
+64,509,2025-02-21,3239.15,46.29,"7769 Main St, Austin, Texas",completed,credit_card,Texas,Austin
+65,277,2025-04-05,1517.94,44.64,"9084 Pine Rd, Austin, Texas",shipped,bank_transfer,Texas,Austin
+66,261,2025-04-02,2676.51,37.03,"1317 Pine Rd, Austin, Texas",pending,credit_card,Texas,Austin
+67,503,2025-08-02,2924.47,29.55,"667 Main St, Austin, Texas",shipped,credit_card,Texas,Austin
+68,860,2025-03-07,1031.25,6.41,"9808 Pine Rd, Austin, Texas",shipped,paypal,Texas,Austin
+69,172,2025-04-03,614.91,5.81,"5915 Oak Ave, Austin, Texas",shipped,bank_transfer,Texas,Austin
+70,982,2025-05-10,1196.85,21.55,"4946 Pine Rd, Austin, Texas",pending,credit_card,Texas,Austin
+71,980,2025-07-29,425.48,44.14,"9757 Elm St, Austin, Texas",shipped,bank_transfer,Texas,Austin
+72,325,2025-05-17,3759.59,32.01,"3274 Main St, Austin, Texas",shipped,bank_transfer,Texas,Austin
+73,853,2025-06-24,4232.12,7.85,"9780 Elm St, San Antonio, Texas",pending,bank_transfer,Texas,San Antonio
+74,489,2025-06-09,2007.56,31.87,"3812 Main St, San Antonio, Texas",completed,bank_transfer,Texas,San Antonio
+75,238,2025-08-02,1166.17,36.27,"7400 Pine Rd, San Antonio, Texas",pending,bank_transfer,Texas,San Antonio
+76,98,2025-04-02,2810.32,46.74,"8610 Oak Ave, San Antonio, Texas",completed,credit_card,Texas,San Antonio
+77,894,2025-07-18,2414.83,48.02,"5189 Oak Ave, San Antonio, Texas",completed,bank_transfer,Texas,San Antonio
+78,162,2025-02-25,869.63,39.44,"5711 Main St, San Antonio, Texas",shipped,bank_transfer,Texas,San Antonio
+79,364,2025-03-16,3477.87,27.05,"9069 Oak Ave, San Antonio, Texas",pending,bank_transfer,Texas,San Antonio
+80,69,2025-04-20,1707.07,36.68,"8518 Oak Ave, San Antonio, Texas",completed,credit_card,Texas,San Antonio
+81,448,2025-07-19,2438.12,10.79,"9546 Oak Ave, San Antonio, Texas",shipped,credit_card,Texas,San Antonio
+82,336,2025-03-13,664.64,19.44,"1597 Main St, San Antonio, Texas",completed,credit_card,Texas,San Antonio
+83,42,2025-04-10,3495.8,38.68,"2909 Oak Ave, San Antonio, Texas",completed,bank_transfer,Texas,San Antonio
+84,356,2025-07-06,3378.13,45.11,"1933 Oak Ave, San Antonio, Texas",shipped,paypal,Texas,San Antonio
+85,859,2025-02-08,4761.11,37.85,"6485 Oak Ave, San Antonio, Texas",completed,credit_card,Texas,San Antonio
+86,582,2025-04-17,3735.36,41.99,"4862 Main St, Miami, Florida",pending,credit_card,Florida,Miami
+87,355,2025-07-16,1496.5,36.1,"1804 Pine Rd, Miami, Florida",pending,credit_card,Florida,Miami
+88,570,2025-05-24,731.0,12.08,"422 Oak Ave, Miami, Florida",pending,bank_transfer,Florida,Miami
+89,692,2025-06-07,1638.7,36.86,"4289 Main St, Miami, Florida",shipped,credit_card,Florida,Miami
+90,710,2025-03-13,4827.7,22.23,"4366 Pine Rd, Miami, Florida",pending,credit_card,Florida,Miami
+91,937,2025-03-10,2563.99,21.06,"5360 Pine Rd, Miami, Florida",pending,bank_transfer,Florida,Miami
+92,325,2025-06-15,3241.92,42.21,"9084 Oak Ave, Miami, Florida",pending,credit_card,Florida,Miami
+93,640,2025-04-07,4128.72,10.17,"7233 Main St, Miami, Florida",shipped,bank_transfer,Florida,Miami
+94,373,2025-04-19,705.51,35.47,"4975 Main St, Orlando, Florida",completed,bank_transfer,Florida,Orlando
+95,275,2025-04-08,1417.63,22.71,"7032 Elm St, Orlando, Florida",pending,bank_transfer,Florida,Orlando
+96,739,2025-07-21,3505.27,49.89,"8802 Main St, Orlando, Florida",shipped,credit_card,Florida,Orlando
+97,87,2025-05-05,3701.53,19.59,"8464 Pine Rd, Orlando, Florida",pending,bank_transfer,Florida,Orlando
+98,679,2025-07-15,3987.11,38.78,"7246 Pine Rd, Orlando, Florida",completed,credit_card,Florida,Orlando
+99,762,2025-07-30,4201.92,45.99,"7348 Pine Rd, Orlando, Florida",pending,bank_transfer,Florida,Orlando
+100,103,2025-06-22,1646.5,31.9,"207 Elm St, Orlando, Florida",pending,credit_card,Florida,Orlando
+101,543,2025-07-17,3260.12,25.56,"6683 Main St, Orlando, Florida",pending,credit_card,Florida,Orlando
+102,422,2025-03-21,4619.43,39.45,"6682 Main St, Orlando, Florida",pending,bank_transfer,Florida,Orlando
+103,511,2025-04-03,3615.57,12.47,"844 Elm St, Orlando, Florida",shipped,paypal,Florida,Orlando
+104,2,2025-06-14,4841.39,45.77,"1600 Oak Ave, Tampa, Florida",shipped,paypal,Florida,Tampa
+105,565,2025-03-30,2705.04,17.84,"868 Elm St, Tampa, Florida",shipped,bank_transfer,Florida,Tampa
+106,897,2025-03-26,1872.16,18.01,"4292 Pine Rd, Tampa, Florida",shipped,bank_transfer,Florida,Tampa
+107,181,2025-06-14,3771.56,7.94,"6539 Oak Ave, Tampa, Florida",shipped,credit_card,Florida,Tampa
+108,578,2025-02-07,4485.14,39.08,"4714 Pine Rd, Tampa, Florida",pending,paypal,Florida,Tampa
+109,414,2025-03-09,2561.35,43.56,"6390 Main St, Tampa, Florida",pending,paypal,Florida,Tampa
+110,549,2025-05-03,4031.92,49.21,"1410 Pine Rd, Tampa, Florida",pending,paypal,Florida,Tampa
+111,987,2025-07-26,3907.55,30.46,"2327 Oak Ave, Tampa, Florida",completed,paypal,Florida,Tampa
+112,53,2025-06-20,1294.67,38.44,"8631 Oak Ave, Tampa, Florida",shipped,bank_transfer,Florida,Tampa
+113,417,2025-07-29,3477.22,18.29,"9844 Oak Ave, Tampa, Florida",shipped,credit_card,Florida,Tampa
+114,942,2025-02-13,1847.19,37.48,"7615 Pine Rd, Tampa, Florida",completed,credit_card,Florida,Tampa
+115,180,2025-06-09,3630.44,17.68,"7128 Pine Rd, Tampa, Florida",shipped,bank_transfer,Florida,Tampa
+116,368,2025-04-12,4708.94,27.95,"4597 Oak Ave, Jacksonville, Florida",pending,paypal,Florida,Jacksonville
+117,891,2025-07-08,4469.56,40.1,"8367 Pine Rd, Jacksonville, Florida",completed,paypal,Florida,Jacksonville
+118,345,2025-04-14,3659.84,35.28,"8589 Elm St, Jacksonville, Florida",completed,paypal,Florida,Jacksonville
+119,765,2025-06-02,2546.64,39.24,"2731 Oak Ave, Jacksonville, Florida",shipped,credit_card,Florida,Jacksonville
+120,938,2025-04-25,4924.83,19.4,"2911 Pine Rd, Jacksonville, Florida",shipped,paypal,Florida,Jacksonville
+121,403,2025-03-15,3289.46,15.77,"3788 Pine Rd, Jacksonville, Florida",shipped,bank_transfer,Florida,Jacksonville
+122,307,2025-08-02,3339.69,34.69,"8241 Pine Rd, Jacksonville, Florida",completed,paypal,Florida,Jacksonville
+123,992,2025-07-14,3414.55,42.65,"3696 Main St, Jacksonville, Florida",shipped,credit_card,Florida,Jacksonville
+124,196,2025-03-26,3557.57,35.75,"3088 Elm St, Jacksonville, Florida",completed,credit_card,Florida,Jacksonville
+125,499,2025-02-20,2581.9,5.22,"819 Elm St, Jacksonville, Florida",completed,credit_card,Florida,Jacksonville
+126,305,2025-08-01,187.59,40.16,"9324 Main St, Jacksonville, Florida",completed,paypal,Florida,Jacksonville
+127,293,2025-06-27,4673.5,37.09,"3071 Oak Ave, Jacksonville, Florida",completed,bank_transfer,Florida,Jacksonville
+128,540,2025-05-12,1515.88,48.89,"2522 Oak Ave, New York City, New York",shipped,credit_card,New York,New York City
+129,424,2025-06-11,4792.1,13.15,"1349 Main St, New York City, New York",pending,paypal,New York,New York City
+130,346,2025-04-09,939.31,44.68,"1139 Main St, New York City, New York",pending,paypal,New York,New York City
+131,326,2025-04-03,1390.34,36.42,"4430 Oak Ave, New York City, New York",completed,paypal,New York,New York City
+132,705,2025-03-22,2769.88,6.98,"6468 Pine Rd, New York City, New York",pending,credit_card,New York,New York City
+133,463,2025-04-08,2983.16,29.68,"244 Pine Rd, New York City, New York",shipped,credit_card,New York,New York City
+134,751,2025-06-10,2957.46,23.0,"8672 Oak Ave, New York City, New York",pending,credit_card,New York,New York City
+135,387,2025-06-26,2751.2,38.53,"6284 Pine Rd, New York City, New York",shipped,credit_card,New York,New York City
+136,260,2025-04-17,3517.38,7.23,"6421 Oak Ave, New York City, New York",shipped,credit_card,New York,New York City
+137,582,2025-06-04,2388.45,33.52,"6455 Oak Ave, New York City, New York",completed,paypal,New York,New York City
+138,301,2025-06-19,1100.57,34.33,"3263 Main St, New York City, New York",pending,paypal,New York,New York City
+139,720,2025-02-12,310.17,49.13,"8907 Main St, New York City, New York",pending,credit_card,New York,New York City
+140,507,2025-06-08,1647.18,40.94,"8001 Oak Ave, New York City, New York",shipped,bank_transfer,New York,New York City
+141,435,2025-06-10,2452.27,31.43,"612 Pine Rd, New York City, New York",shipped,bank_transfer,New York,New York City
+142,607,2025-03-01,2006.6,8.98,"4103 Elm St, Buffalo, New York",shipped,credit_card,New York,Buffalo
+143,257,2025-02-10,2494.4,16.73,"8872 Pine Rd, Buffalo, New York",shipped,credit_card,New York,Buffalo
+144,883,2025-06-10,2801.16,10.69,"5044 Main St, Buffalo, New York",shipped,paypal,New York,Buffalo
+145,734,2025-03-05,390.04,18.01,"6135 Pine Rd, Buffalo, New York",pending,paypal,New York,Buffalo
+146,36,2025-07-30,2640.27,44.1,"3921 Main St, Buffalo, New York",pending,credit_card,New York,Buffalo
+147,144,2025-03-19,4402.81,20.77,"558 Main St, Buffalo, New York",completed,bank_transfer,New York,Buffalo
+148,745,2025-03-20,2133.88,24.58,"4691 Elm St, Buffalo, New York",shipped,paypal,New York,Buffalo
+149,496,2025-03-20,1517.82,26.35,"5492 Pine Rd, Buffalo, New York",shipped,bank_transfer,New York,Buffalo
+150,229,2025-02-11,4389.04,6.51,"8095 Pine Rd, Buffalo, New York",pending,paypal,New York,Buffalo
+151,279,2025-06-15,4380.46,45.89,"8197 Main St, Rochester, New York",completed,credit_card,New York,Rochester
+152,353,2025-02-19,3359.01,21.4,"6153 Pine Rd, Rochester, New York",completed,credit_card,New York,Rochester
+153,553,2025-07-05,1244.1,46.95,"1318 Pine Rd, Rochester, New York",completed,bank_transfer,New York,Rochester
+154,531,2025-02-11,3701.0,39.39,"9592 Oak Ave, Rochester, New York",pending,bank_transfer,New York,Rochester
+155,95,2025-05-01,4679.64,24.14,"332 Pine Rd, Rochester, New York",completed,credit_card,New York,Rochester
+156,202,2025-05-28,576.19,24.98,"9851 Oak Ave, Rochester, New York",pending,credit_card,New York,Rochester
+157,168,2025-02-15,2811.09,34.09,"5731 Pine Rd, Rochester, New York",shipped,paypal,New York,Rochester
+158,753,2025-02-10,4615.08,16.83,"9604 Main St, Rochester, New York",pending,paypal,New York,Rochester
+159,38,2025-06-05,3224.18,10.42,"5633 Elm St, Rochester, New York",completed,credit_card,New York,Rochester
+160,164,2025-02-17,4840.76,39.22,"9826 Main St, Albany, New York",pending,credit_card,New York,Albany
+161,390,2025-05-22,3904.02,26.73,"7800 Pine Rd, Albany, New York",pending,credit_card,New York,Albany
+162,712,2025-03-04,3075.47,11.74,"4341 Oak Ave, Albany, New York",completed,paypal,New York,Albany
+163,521,2025-07-17,1908.53,34.12,"4159 Oak Ave, Albany, New York",pending,paypal,New York,Albany
+164,303,2025-05-01,563.65,39.37,"9050 Oak Ave, Albany, New York",completed,bank_transfer,New York,Albany
+165,741,2025-07-06,1530.98,16.26,"9869 Elm St, Albany, New York",shipped,bank_transfer,New York,Albany
+166,862,2025-04-01,3431.7,21.15,"4774 Oak Ave, Albany, New York",pending,credit_card,New York,Albany
+167,926,2025-07-27,1772.92,39.49,"7048 Oak Ave, Albany, New York",pending,bank_transfer,New York,Albany
+168,809,2025-08-02,4159.6,44.18,"7891 Elm St, Albany, New York",pending,credit_card,New York,Albany
+169,212,2025-03-31,850.34,27.76,"3717 Oak Ave, Albany, New York",completed,credit_card,New York,Albany
+170,737,2025-06-13,4882.49,35.25,"5401 Elm St, Albany, New York",shipped,bank_transfer,New York,Albany
+171,596,2025-02-09,114.07,16.27,"1874 Oak Ave, Albany, New York",pending,bank_transfer,New York,Albany
+172,910,2025-03-02,4209.65,23.9,"5291 Main St, Albany, New York",pending,bank_transfer,New York,Albany
+173,233,2025-04-26,4091.22,10.06,"6393 Oak Ave, Chicago, Illinois",completed,paypal,Illinois,Chicago
+174,252,2025-03-24,1004.92,45.24,"3690 Main St, Chicago, Illinois",completed,credit_card,Illinois,Chicago
+175,92,2025-04-09,4959.88,42.43,"738 Pine Rd, Chicago, Illinois",pending,bank_transfer,Illinois,Chicago
+176,653,2025-03-18,1278.58,28.69,"837 Elm St, Chicago, Illinois",completed,paypal,Illinois,Chicago
+177,148,2025-05-13,3227.38,21.84,"7104 Main St, Chicago, Illinois",completed,credit_card,Illinois,Chicago
+178,150,2025-07-28,3756.48,15.72,"5912 Main St, Chicago, Illinois",completed,bank_transfer,Illinois,Chicago
+179,877,2025-03-03,798.14,43.59,"6467 Oak Ave, Chicago, Illinois",shipped,paypal,Illinois,Chicago
+180,533,2025-06-21,3742.3,34.99,"9106 Main St, Chicago, Illinois",shipped,paypal,Illinois,Chicago
+181,93,2025-05-18,2538.16,18.88,"6210 Oak Ave, Chicago, Illinois",completed,bank_transfer,Illinois,Chicago
+182,975,2025-03-03,4791.95,45.18,"1650 Elm St, Chicago, Illinois",shipped,bank_transfer,Illinois,Chicago
+183,470,2025-06-30,2391.18,49.63,"6979 Pine Rd, Chicago, Illinois",completed,paypal,Illinois,Chicago
+184,640,2025-03-06,2818.38,43.02,"8843 Main St, Chicago, Illinois",shipped,paypal,Illinois,Chicago
+185,186,2025-04-20,1045.99,46.16,"9920 Oak Ave, Chicago, Illinois",shipped,paypal,Illinois,Chicago
+186,572,2025-03-21,3818.92,26.3,"883 Main St, Chicago, Illinois",shipped,bank_transfer,Illinois,Chicago
+187,276,2025-05-07,3096.07,20.22,"1800 Pine Rd, Chicago, Illinois",pending,credit_card,Illinois,Chicago
+188,468,2025-06-14,3888.71,26.23,"8572 Oak Ave, Springfield, Illinois",pending,paypal,Illinois,Springfield
+189,544,2025-03-23,1390.62,43.33,"3684 Pine Rd, Springfield, Illinois",shipped,bank_transfer,Illinois,Springfield
+190,450,2025-07-29,2845.24,46.86,"8581 Pine Rd, Springfield, Illinois",pending,credit_card,Illinois,Springfield
+191,530,2025-07-26,3813.54,37.75,"5175 Elm St, Springfield, Illinois",completed,credit_card,Illinois,Springfield
+192,806,2025-07-13,3598.65,31.94,"6304 Oak Ave, Springfield, Illinois",pending,bank_transfer,Illinois,Springfield
+193,995,2025-06-14,3853.7,10.67,"3480 Oak Ave, Springfield, Illinois",pending,paypal,Illinois,Springfield
+194,517,2025-07-13,2579.22,25.68,"9086 Main St, Springfield, Illinois",shipped,paypal,Illinois,Springfield
+195,160,2025-03-23,3390.86,12.89,"3079 Oak Ave, Peoria, Illinois",pending,paypal,Illinois,Peoria
+196,798,2025-03-25,4709.61,12.26,"6448 Pine Rd, Peoria, Illinois",shipped,bank_transfer,Illinois,Peoria
+197,668,2025-06-19,193.19,32.55,"2816 Pine Rd, Peoria, Illinois",completed,bank_transfer,Illinois,Peoria
+198,932,2025-06-25,271.37,13.23,"347 Elm St, Peoria, Illinois",shipped,paypal,Illinois,Peoria
+199,772,2025-03-01,593.22,33.19,"7134 Elm St, Peoria, Illinois",completed,bank_transfer,Illinois,Peoria
+200,639,2025-04-02,1714.2,23.32,"1066 Elm St, Peoria, Illinois",shipped,bank_transfer,Illinois,Peoria
+201,732,2025-02-18,4699.27,24.91,"5808 Pine Rd, Peoria, Illinois",completed,paypal,Illinois,Peoria
+202,466,2025-04-03,4045.23,42.85,"6659 Pine Rd, Peoria, Illinois",completed,paypal,Illinois,Peoria
+203,106,2025-04-03,3401.91,35.22,"9597 Main St, Rockford, Illinois",shipped,paypal,Illinois,Rockford
+204,89,2025-07-11,1848.19,27.17,"9633 Elm St, Rockford, Illinois",completed,paypal,Illinois,Rockford
+205,173,2025-07-24,3349.07,17.17,"7070 Main St, Rockford, Illinois",shipped,bank_transfer,Illinois,Rockford
+206,598,2025-06-09,3652.52,22.25,"2359 Main St, Rockford, Illinois",shipped,credit_card,Illinois,Rockford
+207,329,2025-05-07,646.41,40.24,"7886 Main St, Rockford, Illinois",shipped,credit_card,Illinois,Rockford
+208,201,2025-04-08,1324.65,12.35,"5653 Pine Rd, Rockford, Illinois",pending,paypal,Illinois,Rockford
+209,173,2025-05-26,1807.28,31.17,"7574 Main St, Rockford, Illinois",shipped,bank_transfer,Illinois,Rockford
+210,549,2025-02-14,1512.79,8.55,"6026 Pine Rd, Rockford, Illinois",completed,credit_card,Illinois,Rockford
+211,719,2025-03-23,4670.81,6.08,"524 Elm St, Rockford, Illinois",pending,bank_transfer,Illinois,Rockford
+212,391,2025-04-22,2754.83,42.03,"930 Oak Ave, Philadelphia, Pennsylvania",shipped,credit_card,Pennsylvania,Philadelphia
+213,811,2025-03-19,2881.31,18.62,"3390 Elm St, Philadelphia, Pennsylvania",pending,paypal,Pennsylvania,Philadelphia
+214,785,2025-03-09,1652.53,42.0,"2041 Pine Rd, Philadelphia, Pennsylvania",pending,bank_transfer,Pennsylvania,Philadelphia
+215,609,2025-05-15,2588.26,28.9,"8979 Oak Ave, Philadelphia, Pennsylvania",shipped,paypal,Pennsylvania,Philadelphia
+216,792,2025-07-31,4761.17,34.1,"396 Oak Ave, Philadelphia, Pennsylvania",completed,bank_transfer,Pennsylvania,Philadelphia
+217,441,2025-05-09,3551.9,17.25,"7162 Main St, Philadelphia, Pennsylvania",completed,bank_transfer,Pennsylvania,Philadelphia
+218,78,2025-02-08,895.77,31.65,"1293 Main St, Philadelphia, Pennsylvania",shipped,paypal,Pennsylvania,Philadelphia
+219,28,2025-03-13,935.04,24.09,"9488 Main St, Pittsburgh, Pennsylvania",shipped,paypal,Pennsylvania,Pittsburgh
+220,428,2025-07-19,3402.6,47.67,"1732 Oak Ave, Pittsburgh, Pennsylvania",completed,credit_card,Pennsylvania,Pittsburgh
+221,129,2025-06-06,3702.18,45.79,"181 Main St, Pittsburgh, Pennsylvania",completed,credit_card,Pennsylvania,Pittsburgh
+222,402,2025-04-12,2324.02,22.39,"8039 Main St, Pittsburgh, Pennsylvania",pending,bank_transfer,Pennsylvania,Pittsburgh
+223,174,2025-03-09,4725.53,46.19,"2807 Elm St, Pittsburgh, Pennsylvania",completed,credit_card,Pennsylvania,Pittsburgh
+224,100,2025-07-23,799.72,23.55,"9171 Pine Rd, Pittsburgh, Pennsylvania",pending,paypal,Pennsylvania,Pittsburgh
+225,168,2025-03-03,3307.77,26.61,"3077 Main St, Pittsburgh, Pennsylvania",pending,bank_transfer,Pennsylvania,Pittsburgh
+226,137,2025-07-12,976.95,36.41,"9968 Elm St, Harrisburg, Pennsylvania",completed,paypal,Pennsylvania,Harrisburg
+227,733,2025-07-07,2430.52,35.97,"2717 Oak Ave, Harrisburg, Pennsylvania",shipped,bank_transfer,Pennsylvania,Harrisburg
+228,938,2025-04-19,350.44,22.5,"9098 Main St, Harrisburg, Pennsylvania",completed,credit_card,Pennsylvania,Harrisburg
+229,689,2025-06-15,255.13,40.1,"4111 Main St, Harrisburg, Pennsylvania",completed,credit_card,Pennsylvania,Harrisburg
+230,719,2025-03-30,1465.99,24.13,"4983 Elm St, Harrisburg, Pennsylvania",completed,paypal,Pennsylvania,Harrisburg
+231,916,2025-04-25,2283.77,40.03,"4018 Main St, Harrisburg, Pennsylvania",pending,paypal,Pennsylvania,Harrisburg
+232,255,2025-05-27,4336.2,34.58,"387 Oak Ave, Harrisburg, Pennsylvania",pending,bank_transfer,Pennsylvania,Harrisburg
+233,185,2025-05-05,3650.11,45.54,"9768 Pine Rd, Harrisburg, Pennsylvania",completed,paypal,Pennsylvania,Harrisburg
+234,613,2025-05-01,2778.97,31.57,"9915 Oak Ave, Harrisburg, Pennsylvania",pending,paypal,Pennsylvania,Harrisburg
+235,658,2025-02-21,251.5,7.48,"370 Pine Rd, Harrisburg, Pennsylvania",shipped,credit_card,Pennsylvania,Harrisburg
+236,980,2025-06-13,3714.75,22.87,"1474 Pine Rd, Harrisburg, Pennsylvania",shipped,credit_card,Pennsylvania,Harrisburg
+237,267,2025-07-04,4387.93,37.65,"8882 Main St, Harrisburg, Pennsylvania",completed,paypal,Pennsylvania,Harrisburg
+238,391,2025-04-13,4558.01,25.72,"3984 Main St, Harrisburg, Pennsylvania",shipped,bank_transfer,Pennsylvania,Harrisburg
+239,133,2025-06-20,3449.46,8.37,"460 Pine Rd, Harrisburg, Pennsylvania",completed,bank_transfer,Pennsylvania,Harrisburg
+240,109,2025-02-21,546.02,18.61,"5303 Pine Rd, Allentown, Pennsylvania",completed,bank_transfer,Pennsylvania,Allentown
+241,438,2025-06-06,3038.13,26.77,"4405 Main St, Allentown, Pennsylvania",completed,bank_transfer,Pennsylvania,Allentown
+242,575,2025-05-16,4200.41,27.66,"4326 Oak Ave, Allentown, Pennsylvania",completed,credit_card,Pennsylvania,Allentown
+243,312,2025-07-17,4556.59,11.21,"3578 Main St, Allentown, Pennsylvania",shipped,paypal,Pennsylvania,Allentown
+244,201,2025-06-19,226.1,19.88,"2739 Pine Rd, Allentown, Pennsylvania",completed,paypal,Pennsylvania,Allentown
+245,993,2025-06-25,646.36,25.09,"6887 Pine Rd, Allentown, Pennsylvania",completed,credit_card,Pennsylvania,Allentown
+246,509,2025-03-21,3361.41,5.46,"3831 Oak Ave, Columbus, Ohio",pending,paypal,Ohio,Columbus
+247,321,2025-04-07,4152.99,38.0,"3904 Main St, Columbus, Ohio",completed,paypal,Ohio,Columbus
+248,696,2025-03-22,1071.59,45.76,"7280 Main St, Columbus, Ohio",pending,credit_card,Ohio,Columbus
+249,78,2025-03-01,4360.98,31.33,"1071 Elm St, Columbus, Ohio",completed,credit_card,Ohio,Columbus
+250,278,2025-02-18,4475.73,46.33,"618 Main St, Columbus, Ohio",pending,bank_transfer,Ohio,Columbus
+251,508,2025-06-02,2966.72,18.62,"1218 Oak Ave, Columbus, Ohio",shipped,credit_card,Ohio,Columbus
+252,567,2025-07-31,2100.14,34.2,"6604 Pine Rd, Columbus, Ohio",shipped,credit_card,Ohio,Columbus
+253,903,2025-06-19,4622.97,21.23,"3611 Oak Ave, Cleveland, Ohio",shipped,paypal,Ohio,Cleveland
+254,675,2025-07-27,825.15,25.96,"2045 Elm St, Cleveland, Ohio",shipped,paypal,Ohio,Cleveland
+255,973,2025-08-01,2402.95,20.7,"3697 Oak Ave, Cleveland, Ohio",completed,bank_transfer,Ohio,Cleveland
+256,185,2025-07-02,1737.75,47.25,"9184 Main St, Cleveland, Ohio",shipped,credit_card,Ohio,Cleveland
+257,337,2025-03-04,1396.67,29.02,"9388 Pine Rd, Cleveland, Ohio",shipped,bank_transfer,Ohio,Cleveland
+258,831,2025-07-07,2436.11,27.71,"5498 Main St, Cleveland, Ohio",shipped,paypal,Ohio,Cleveland
+259,505,2025-04-23,2161.92,20.2,"9257 Pine Rd, Cleveland, Ohio",shipped,paypal,Ohio,Cleveland
+260,135,2025-04-17,2570.83,5.72,"2221 Main St, Cleveland, Ohio",completed,paypal,Ohio,Cleveland
+261,413,2025-03-04,2928.33,40.73,"5643 Oak Ave, Cleveland, Ohio",completed,bank_transfer,Ohio,Cleveland
+262,668,2025-06-16,3399.12,20.33,"9636 Main St, Cleveland, Ohio",shipped,paypal,Ohio,Cleveland
+263,360,2025-02-17,1066.45,39.91,"4936 Elm St, Cleveland, Ohio",shipped,credit_card,Ohio,Cleveland
+264,202,2025-02-12,3207.24,48.8,"9988 Pine Rd, Cleveland, Ohio",completed,credit_card,Ohio,Cleveland
+265,725,2025-02-08,3885.44,28.56,"4737 Pine Rd, Cleveland, Ohio",completed,bank_transfer,Ohio,Cleveland
+266,61,2025-04-28,2343.9,6.71,"8253 Oak Ave, Cleveland, Ohio",pending,bank_transfer,Ohio,Cleveland
+267,886,2025-05-30,1928.21,20.37,"1524 Elm St, Cincinnati, Ohio",pending,credit_card,Ohio,Cincinnati
+268,330,2025-04-22,3050.78,35.24,"1469 Pine Rd, Cincinnati, Ohio",completed,paypal,Ohio,Cincinnati
+269,533,2025-05-26,3883.94,29.63,"4427 Main St, Cincinnati, Ohio",pending,paypal,Ohio,Cincinnati
+270,926,2025-02-10,4168.61,35.39,"3708 Elm St, Cincinnati, Ohio",shipped,credit_card,Ohio,Cincinnati
+271,35,2025-06-26,1631.39,46.81,"2737 Main St, Cincinnati, Ohio",pending,credit_card,Ohio,Cincinnati
+272,515,2025-02-16,684.8,38.25,"7335 Main St, Toledo, Ohio",shipped,credit_card,Ohio,Toledo
+273,300,2025-05-14,1953.05,42.28,"3956 Pine Rd, Toledo, Ohio",completed,bank_transfer,Ohio,Toledo
+274,365,2025-04-23,4741.47,24.92,"7167 Oak Ave, Toledo, Ohio",pending,credit_card,Ohio,Toledo
+275,165,2025-07-18,1868.08,37.15,"6007 Elm St, Toledo, Ohio",completed,credit_card,Ohio,Toledo
+276,939,2025-07-15,3034.32,10.66,"1753 Elm St, Toledo, Ohio",completed,paypal,Ohio,Toledo
+277,575,2025-04-03,4320.53,44.54,"8511 Main St, Toledo, Ohio",pending,credit_card,Ohio,Toledo
+278,996,2025-06-23,4750.73,12.02,"7067 Elm St, Toledo, Ohio",pending,paypal,Ohio,Toledo
+279,605,2025-05-08,4860.24,45.34,"9408 Elm St, Toledo, Ohio",pending,paypal,Ohio,Toledo
+280,421,2025-06-13,2686.54,25.66,"534 Pine Rd, Toledo, Ohio",completed,paypal,Ohio,Toledo
+281,871,2025-04-09,2284.02,13.28,"4667 Pine Rd, Toledo, Ohio",completed,paypal,Ohio,Toledo
+282,809,2025-05-24,1136.49,44.79,"6757 Main St, Toledo, Ohio",completed,bank_transfer,Ohio,Toledo
+283,310,2025-03-19,3030.34,19.5,"6319 Oak Ave, Toledo, Ohio",shipped,paypal,Ohio,Toledo
+284,985,2025-02-26,2705.42,7.92,"1898 Main St, Toledo, Ohio",completed,paypal,Ohio,Toledo
+285,276,2025-03-26,1341.43,37.03,"3750 Oak Ave, Atlanta, Georgia",shipped,paypal,Georgia,Atlanta
+286,749,2025-03-09,1919.41,32.83,"5644 Elm St, Atlanta, Georgia",completed,bank_transfer,Georgia,Atlanta
+287,620,2025-05-29,1062.22,30.01,"4158 Elm St, Atlanta, Georgia",shipped,paypal,Georgia,Atlanta
+288,191,2025-03-30,2570.3,33.18,"4693 Pine Rd, Atlanta, Georgia",shipped,credit_card,Georgia,Atlanta
+289,202,2025-07-30,3645.76,10.15,"7059 Pine Rd, Atlanta, Georgia",completed,bank_transfer,Georgia,Atlanta
+290,256,2025-04-25,4566.49,15.25,"3343 Main St, Atlanta, Georgia",completed,credit_card,Georgia,Atlanta
+291,475,2025-06-13,4880.94,35.45,"3778 Elm St, Atlanta, Georgia",completed,bank_transfer,Georgia,Atlanta
+292,38,2025-06-05,3701.37,26.85,"8302 Elm St, Atlanta, Georgia",shipped,credit_card,Georgia,Atlanta
+293,683,2025-03-21,705.34,5.58,"7994 Main St, Savannah, Georgia",pending,credit_card,Georgia,Savannah
+294,97,2025-04-05,3538.44,42.6,"1414 Pine Rd, Savannah, Georgia",completed,paypal,Georgia,Savannah
+295,259,2025-03-18,580.22,16.26,"4855 Elm St, Savannah, Georgia",completed,credit_card,Georgia,Savannah
+296,509,2025-03-05,4552.72,43.11,"1612 Pine Rd, Savannah, Georgia",shipped,bank_transfer,Georgia,Savannah
+297,797,2025-03-11,1701.93,43.14,"7261 Oak Ave, Savannah, Georgia",shipped,paypal,Georgia,Savannah
+298,750,2025-02-21,2818.49,44.72,"3393 Pine Rd, Savannah, Georgia",completed,paypal,Georgia,Savannah
+299,139,2025-02-08,302.74,32.62,"6731 Pine Rd, Savannah, Georgia",completed,paypal,Georgia,Savannah
+300,148,2025-06-13,1132.82,29.64,"2565 Elm St, Savannah, Georgia",shipped,bank_transfer,Georgia,Savannah
+301,732,2025-07-01,4099.92,49.26,"5620 Main St, Savannah, Georgia",pending,paypal,Georgia,Savannah
+302,512,2025-05-04,659.02,14.26,"3179 Pine Rd, Savannah, Georgia",pending,credit_card,Georgia,Savannah
+303,6,2025-03-03,1531.72,31.38,"5022 Pine Rd, Athens, Georgia",pending,credit_card,Georgia,Athens
+304,366,2025-07-21,4932.8,46.94,"7245 Pine Rd, Athens, Georgia",pending,paypal,Georgia,Athens
+305,458,2025-03-29,449.45,14.52,"8065 Main St, Athens, Georgia",pending,credit_card,Georgia,Athens
+306,715,2025-06-15,3075.58,41.82,"1731 Main St, Athens, Georgia",shipped,credit_card,Georgia,Athens
+307,347,2025-06-09,3019.27,48.45,"7156 Oak Ave, Athens, Georgia",completed,bank_transfer,Georgia,Athens
+308,715,2025-07-04,2432.23,41.41,"2382 Pine Rd, Athens, Georgia",shipped,bank_transfer,Georgia,Athens
+309,926,2025-07-10,2090.18,35.37,"8847 Main St, Athens, Georgia",pending,paypal,Georgia,Athens
+310,879,2025-02-22,4303.11,12.39,"814 Pine Rd, Athens, Georgia",completed,bank_transfer,Georgia,Athens
+311,166,2025-03-31,1834.36,30.4,"5141 Elm St, Athens, Georgia",pending,credit_card,Georgia,Athens
+312,601,2025-03-15,1338.6,47.11,"1510 Elm St, Athens, Georgia",shipped,paypal,Georgia,Athens
+313,929,2025-03-27,4829.92,34.0,"340 Main St, Athens, Georgia",pending,bank_transfer,Georgia,Athens
+314,396,2025-03-16,4911.8,26.16,"5551 Oak Ave, Athens, Georgia",completed,credit_card,Georgia,Athens
+315,549,2025-03-27,935.66,6.36,"6740 Oak Ave, Athens, Georgia",completed,bank_transfer,Georgia,Athens
+316,386,2025-02-27,4733.09,48.5,"7089 Elm St, Athens, Georgia",completed,bank_transfer,Georgia,Athens
+317,344,2025-04-28,269.66,46.29,"9525 Main St, Macon, Georgia",completed,paypal,Georgia,Macon
+318,877,2025-07-27,1403.94,19.96,"6927 Pine Rd, Macon, Georgia",shipped,bank_transfer,Georgia,Macon
+319,816,2025-03-27,2277.7,46.22,"1910 Elm St, Macon, Georgia",completed,credit_card,Georgia,Macon
+320,485,2025-06-09,1285.38,20.54,"8547 Oak Ave, Macon, Georgia",shipped,credit_card,Georgia,Macon
+321,839,2025-06-28,2937.82,45.64,"7683 Pine Rd, Macon, Georgia",shipped,bank_transfer,Georgia,Macon
+322,136,2025-07-11,4452.01,37.55,"5669 Main St, Macon, Georgia",shipped,credit_card,Georgia,Macon
+323,974,2025-04-26,4332.73,26.61,"9103 Oak Ave, Macon, Georgia",completed,paypal,Georgia,Macon
+324,115,2025-04-03,916.21,46.13,"6436 Elm St, Macon, Georgia",pending,bank_transfer,Georgia,Macon
+325,624,2025-03-15,2234.8,21.72,"3222 Pine Rd, Charlotte, North Carolina",shipped,bank_transfer,North Carolina,Charlotte
+326,227,2025-06-13,2320.05,24.65,"3126 Main St, Charlotte, North Carolina",shipped,paypal,North Carolina,Charlotte
+327,925,2025-06-14,1658.28,28.0,"7276 Oak Ave, Charlotte, North Carolina",shipped,bank_transfer,North Carolina,Charlotte
+328,324,2025-06-19,3827.17,23.6,"1985 Elm St, Charlotte, North Carolina",shipped,paypal,North Carolina,Charlotte
+329,737,2025-03-07,3956.01,19.03,"2227 Oak Ave, Charlotte, North Carolina",completed,bank_transfer,North Carolina,Charlotte
+330,349,2025-05-19,2401.19,21.74,"9879 Pine Rd, Charlotte, North Carolina",shipped,bank_transfer,North Carolina,Charlotte
+331,39,2025-03-23,341.16,6.33,"9879 Pine Rd, Charlotte, North Carolina",completed,paypal,North Carolina,Charlotte
+332,437,2025-05-21,2934.69,28.77,"3214 Main St, Charlotte, North Carolina",completed,paypal,North Carolina,Charlotte
+333,381,2025-05-18,1599.33,6.61,"7155 Oak Ave, Charlotte, North Carolina",completed,bank_transfer,North Carolina,Charlotte
+334,98,2025-07-15,1819.66,29.76,"5810 Oak Ave, Charlotte, North Carolina",shipped,bank_transfer,North Carolina,Charlotte
+335,841,2025-06-04,1990.62,44.78,"5280 Pine Rd, Charlotte, North Carolina",shipped,paypal,North Carolina,Charlotte
+336,305,2025-06-05,1688.29,10.84,"6918 Pine Rd, Charlotte, North Carolina",pending,bank_transfer,North Carolina,Charlotte
+337,916,2025-05-01,1740.83,13.17,"7845 Pine Rd, Raleigh, North Carolina",shipped,paypal,North Carolina,Raleigh
+338,237,2025-05-12,4791.75,29.37,"4830 Main St, Raleigh, North Carolina",completed,credit_card,North Carolina,Raleigh
+339,474,2025-06-20,1694.46,29.95,"577 Oak Ave, Raleigh, North Carolina",pending,bank_transfer,North Carolina,Raleigh
+340,148,2025-07-29,3228.23,8.28,"4772 Main St, Raleigh, North Carolina",shipped,bank_transfer,North Carolina,Raleigh
+341,608,2025-06-21,3915.76,26.32,"3359 Pine Rd, Raleigh, North Carolina",pending,bank_transfer,North Carolina,Raleigh
+342,177,2025-07-08,918.04,28.83,"3900 Main St, Raleigh, North Carolina",completed,credit_card,North Carolina,Raleigh
+343,12,2025-06-28,2492.45,30.0,"7218 Main St, Raleigh, North Carolina",completed,credit_card,North Carolina,Raleigh
+344,383,2025-03-12,568.23,44.11,"3591 Oak Ave, Greensboro, North Carolina",pending,paypal,North Carolina,Greensboro
+345,410,2025-02-08,4420.07,14.37,"7947 Oak Ave, Greensboro, North Carolina",pending,bank_transfer,North Carolina,Greensboro
+346,760,2025-04-20,202.62,25.88,"5054 Pine Rd, Greensboro, North Carolina",pending,paypal,North Carolina,Greensboro
+347,606,2025-07-23,808.47,44.96,"2613 Elm St, Greensboro, North Carolina",completed,bank_transfer,North Carolina,Greensboro
+348,427,2025-03-23,1412.94,43.81,"5823 Pine Rd, Greensboro, North Carolina",pending,bank_transfer,North Carolina,Greensboro
+349,259,2025-02-18,455.31,29.07,"2059 Elm St, Greensboro, North Carolina",completed,bank_transfer,North Carolina,Greensboro
+350,543,2025-04-15,3254.64,33.42,"7360 Main St, Greensboro, North Carolina",pending,paypal,North Carolina,Greensboro
+351,337,2025-03-29,4109.65,7.38,"1312 Pine Rd, Greensboro, North Carolina",shipped,credit_card,North Carolina,Greensboro
+352,715,2025-03-26,2164.05,48.95,"5551 Main St, Greensboro, North Carolina",pending,bank_transfer,North Carolina,Greensboro
+353,153,2025-08-02,2866.36,47.87,"187 Oak Ave, Greensboro, North Carolina",shipped,paypal,North Carolina,Greensboro
+354,308,2025-05-24,3389.37,8.03,"9420 Elm St, Greensboro, North Carolina",shipped,bank_transfer,North Carolina,Greensboro
+355,701,2025-02-08,4998.55,35.43,"419 Oak Ave, Greensboro, North Carolina",pending,bank_transfer,North Carolina,Greensboro
+356,547,2025-06-18,889.05,6.94,"128 Main St, Greensboro, North Carolina",pending,credit_card,North Carolina,Greensboro
+357,19,2025-06-16,2488.17,14.82,"3595 Main St, Durham, North Carolina",pending,credit_card,North Carolina,Durham
+358,177,2025-07-21,2527.99,20.22,"1620 Pine Rd, Durham, North Carolina",shipped,credit_card,North Carolina,Durham
+359,832,2025-07-12,1266.51,29.48,"9407 Main St, Durham, North Carolina",completed,paypal,North Carolina,Durham
+360,426,2025-06-27,2210.26,36.25,"520 Main St, Durham, North Carolina",pending,credit_card,North Carolina,Durham
+361,691,2025-04-21,2115.29,45.21,"9384 Pine Rd, Durham, North Carolina",completed,credit_card,North Carolina,Durham
+362,180,2025-05-03,2229.23,28.95,"7260 Pine Rd, Durham, North Carolina",pending,bank_transfer,North Carolina,Durham
+363,736,2025-04-06,4798.35,45.75,"3299 Pine Rd, Durham, North Carolina",pending,bank_transfer,North Carolina,Durham
+364,396,2025-02-09,726.06,48.69,"3882 Main St, Durham, North Carolina",pending,credit_card,North Carolina,Durham
+365,714,2025-04-25,559.29,15.13,"9874 Elm St, Durham, North Carolina",completed,credit_card,North Carolina,Durham
+366,242,2025-04-05,3000.33,37.02,"4491 Main St, Detroit, Michigan",pending,credit_card,Michigan,Detroit
+367,458,2025-07-11,4617.98,19.3,"8900 Main St, Detroit, Michigan",completed,credit_card,Michigan,Detroit
+368,871,2025-04-26,4437.95,12.65,"4978 Oak Ave, Detroit, Michigan",completed,credit_card,Michigan,Detroit
+369,619,2025-03-23,4866.32,43.86,"4815 Main St, Detroit, Michigan",completed,credit_card,Michigan,Detroit
+370,412,2025-04-19,740.29,20.19,"6047 Elm St, Detroit, Michigan",completed,paypal,Michigan,Detroit
+371,961,2025-08-02,3811.89,13.52,"9206 Elm St, Detroit, Michigan",completed,credit_card,Michigan,Detroit
+372,25,2025-04-18,179.59,16.57,"9546 Main St, Detroit, Michigan",shipped,bank_transfer,Michigan,Detroit
+373,902,2025-06-06,2110.16,9.52,"8579 Elm St, Detroit, Michigan",shipped,credit_card,Michigan,Detroit
+374,735,2025-03-20,4755.92,5.92,"2300 Pine Rd, Detroit, Michigan",pending,credit_card,Michigan,Detroit
+375,728,2025-02-09,2398.33,41.52,"4086 Pine Rd, Detroit, Michigan",completed,bank_transfer,Michigan,Detroit
+376,488,2025-05-30,3020.01,8.08,"3004 Main St, Detroit, Michigan",shipped,bank_transfer,Michigan,Detroit
+377,839,2025-02-09,3796.56,42.16,"3318 Oak Ave, Detroit, Michigan",shipped,credit_card,Michigan,Detroit
+378,932,2025-05-21,198.31,28.38,"5467 Main St, Grand Rapids, Michigan",completed,paypal,Michigan,Grand Rapids
+379,675,2025-06-13,1876.16,13.45,"2108 Elm St, Grand Rapids, Michigan",completed,bank_transfer,Michigan,Grand Rapids
+380,100,2025-04-19,446.1,39.33,"5475 Pine Rd, Grand Rapids, Michigan",pending,credit_card,Michigan,Grand Rapids
+381,979,2025-02-16,748.35,29.96,"3291 Main St, Grand Rapids, Michigan",pending,paypal,Michigan,Grand Rapids
+382,192,2025-03-20,3099.09,18.15,"4429 Oak Ave, Grand Rapids, Michigan",shipped,credit_card,Michigan,Grand Rapids
+383,762,2025-04-09,749.43,11.44,"2450 Oak Ave, Grand Rapids, Michigan",completed,paypal,Michigan,Grand Rapids
+384,79,2025-05-05,2645.61,29.65,"8513 Main St, Grand Rapids, Michigan",pending,credit_card,Michigan,Grand Rapids
+385,395,2025-07-13,1909.2,9.99,"9810 Oak Ave, Grand Rapids, Michigan",shipped,paypal,Michigan,Grand Rapids
+386,310,2025-05-27,2571.43,48.22,"4722 Oak Ave, Grand Rapids, Michigan",completed,paypal,Michigan,Grand Rapids
+387,954,2025-05-01,3034.1,47.15,"4262 Main St, Grand Rapids, Michigan",pending,paypal,Michigan,Grand Rapids
+388,164,2025-06-07,4351.97,46.78,"9844 Pine Rd, Grand Rapids, Michigan",completed,bank_transfer,Michigan,Grand Rapids
+389,690,2025-03-21,2796.71,32.25,"3553 Main St, Grand Rapids, Michigan",pending,bank_transfer,Michigan,Grand Rapids
+390,580,2025-07-09,3855.76,43.76,"8658 Oak Ave, Grand Rapids, Michigan",completed,bank_transfer,Michigan,Grand Rapids
+391,435,2025-08-02,4544.83,8.8,"6315 Elm St, Grand Rapids, Michigan",completed,bank_transfer,Michigan,Grand Rapids
+392,97,2025-06-08,2743.54,29.43,"3296 Elm St, Grand Rapids, Michigan",pending,paypal,Michigan,Grand Rapids
+393,886,2025-05-19,1180.62,47.0,"4822 Main St, Lansing, Michigan",shipped,bank_transfer,Michigan,Lansing
+394,633,2025-05-20,4810.26,33.64,"1823 Main St, Lansing, Michigan",pending,bank_transfer,Michigan,Lansing
+395,24,2025-05-01,1490.0,25.27,"9568 Pine Rd, Lansing, Michigan",completed,paypal,Michigan,Lansing
+396,660,2025-04-12,4351.7,38.75,"7591 Oak Ave, Lansing, Michigan",completed,paypal,Michigan,Lansing
+397,115,2025-03-19,1152.05,38.7,"2599 Main St, Lansing, Michigan",pending,paypal,Michigan,Lansing
+398,103,2025-07-04,4725.54,9.52,"3128 Pine Rd, Lansing, Michigan",completed,bank_transfer,Michigan,Lansing
+399,11,2025-05-16,2447.94,29.2,"8150 Pine Rd, Lansing, Michigan",pending,paypal,Michigan,Lansing
+400,250,2025-03-05,2612.52,5.58,"3482 Oak Ave, Lansing, Michigan",shipped,paypal,Michigan,Lansing
+401,147,2025-06-23,962.77,7.85,"7358 Main St, Lansing, Michigan",completed,bank_transfer,Michigan,Lansing
+402,431,2025-06-19,559.22,28.02,"5446 Pine Rd, Lansing, Michigan",shipped,paypal,Michigan,Lansing
+403,547,2025-04-30,3625.63,28.28,"8915 Oak Ave, Lansing, Michigan",completed,bank_transfer,Michigan,Lansing
+404,720,2025-04-04,1216.5,33.92,"9379 Pine Rd, Ann Arbor, Michigan",shipped,paypal,Michigan,Ann Arbor
+405,26,2025-06-29,3085.84,26.2,"1502 Pine Rd, Ann Arbor, Michigan",completed,bank_transfer,Michigan,Ann Arbor
+406,20,2025-02-17,327.41,20.99,"573 Elm St, Ann Arbor, Michigan",shipped,bank_transfer,Michigan,Ann Arbor
+407,379,2025-03-07,1700.85,5.66,"6644 Pine Rd, Ann Arbor, Michigan",shipped,credit_card,Michigan,Ann Arbor
+408,123,2025-04-03,4179.17,37.15,"9523 Main St, Ann Arbor, Michigan",completed,bank_transfer,Michigan,Ann Arbor
+409,852,2025-06-30,2763.47,14.84,"2502 Elm St, Ann Arbor, Michigan",pending,bank_transfer,Michigan,Ann Arbor
+410,683,2025-05-03,251.5,34.96,"8149 Elm St, Ann Arbor, Michigan",pending,credit_card,Michigan,Ann Arbor
+411,397,2025-06-30,3433.18,28.02,"1192 Main St, Ann Arbor, Michigan",completed,bank_transfer,Michigan,Ann Arbor
+412,820,2025-05-28,1010.32,33.44,"2501 Elm St, Ann Arbor, Michigan",shipped,paypal,Michigan,Ann Arbor
+413,520,2025-02-10,4017.43,17.05,"7627 Elm St, Newark, New Jersey",pending,paypal,New Jersey,Newark
+414,702,2025-04-06,4652.77,10.22,"629 Pine Rd, Newark, New Jersey",shipped,bank_transfer,New Jersey,Newark
+415,366,2025-07-05,3299.97,6.75,"9347 Elm St, Newark, New Jersey",completed,bank_transfer,New Jersey,Newark
+416,453,2025-05-05,3044.75,38.17,"1508 Oak Ave, Newark, New Jersey",completed,paypal,New Jersey,Newark
+417,535,2025-05-31,1339.01,20.55,"9723 Pine Rd, Newark, New Jersey",shipped,credit_card,New Jersey,Newark
+418,299,2025-07-31,1823.73,23.68,"5183 Oak Ave, Newark, New Jersey",shipped,paypal,New Jersey,Newark
+419,457,2025-07-24,3599.08,28.16,"287 Main St, Jersey City, New Jersey",completed,bank_transfer,New Jersey,Jersey City
+420,582,2025-02-27,2645.73,45.59,"6626 Oak Ave, Jersey City, New Jersey",shipped,credit_card,New Jersey,Jersey City
+421,881,2025-05-11,4948.96,31.32,"6634 Pine Rd, Jersey City, New Jersey",completed,paypal,New Jersey,Jersey City
+422,481,2025-05-13,4997.01,8.55,"948 Pine Rd, Jersey City, New Jersey",pending,paypal,New Jersey,Jersey City
+423,344,2025-05-01,3003.36,44.02,"6958 Pine Rd, Jersey City, New Jersey",completed,credit_card,New Jersey,Jersey City
+424,356,2025-05-15,790.64,12.3,"2827 Elm St, Jersey City, New Jersey",pending,paypal,New Jersey,Jersey City
+425,366,2025-07-23,2090.46,30.37,"8697 Main St, Jersey City, New Jersey",shipped,credit_card,New Jersey,Jersey City
+426,830,2025-06-26,1559.09,12.98,"7726 Oak Ave, Jersey City, New Jersey",pending,paypal,New Jersey,Jersey City
+427,822,2025-07-31,1124.38,13.21,"4760 Elm St, Jersey City, New Jersey",shipped,bank_transfer,New Jersey,Jersey City
+428,440,2025-02-17,3870.61,41.34,"7313 Pine Rd, Jersey City, New Jersey",completed,paypal,New Jersey,Jersey City
+429,618,2025-05-15,832.37,43.07,"1703 Pine Rd, Jersey City, New Jersey",shipped,paypal,New Jersey,Jersey City
+430,290,2025-02-27,4528.76,32.15,"8765 Pine Rd, Jersey City, New Jersey",shipped,bank_transfer,New Jersey,Jersey City
+431,939,2025-04-24,2160.69,10.05,"9872 Main St, Jersey City, New Jersey",pending,bank_transfer,New Jersey,Jersey City
+432,522,2025-02-17,2338.51,19.05,"9252 Main St, Jersey City, New Jersey",completed,paypal,New Jersey,Jersey City
+433,290,2025-06-26,1752.35,8.83,"2000 Oak Ave, Jersey City, New Jersey",completed,paypal,New Jersey,Jersey City
+434,983,2025-06-19,2337.45,28.45,"1332 Elm St, Paterson, New Jersey",pending,paypal,New Jersey,Paterson
+435,217,2025-07-03,3888.29,14.5,"8361 Oak Ave, Paterson, New Jersey",shipped,credit_card,New Jersey,Paterson
+436,242,2025-04-10,3480.17,34.29,"3111 Elm St, Paterson, New Jersey",completed,paypal,New Jersey,Paterson
+437,416,2025-07-24,1149.92,17.01,"2672 Elm St, Paterson, New Jersey",completed,paypal,New Jersey,Paterson
+438,271,2025-05-31,3488.84,47.0,"2042 Oak Ave, Paterson, New Jersey",completed,bank_transfer,New Jersey,Paterson
+439,219,2025-06-18,3648.44,20.05,"8604 Pine Rd, Paterson, New Jersey",pending,credit_card,New Jersey,Paterson
+440,940,2025-06-06,3825.97,20.81,"2453 Pine Rd, Paterson, New Jersey",completed,credit_card,New Jersey,Paterson
+441,906,2025-02-11,3406.59,28.38,"5373 Main St, Paterson, New Jersey",pending,bank_transfer,New Jersey,Paterson
+442,154,2025-07-02,2601.87,26.31,"872 Main St, Paterson, New Jersey",pending,paypal,New Jersey,Paterson
+443,677,2025-05-31,3957.33,40.14,"8227 Pine Rd, Paterson, New Jersey",pending,credit_card,New Jersey,Paterson
+444,138,2025-07-18,2185.3,27.22,"2171 Pine Rd, Paterson, New Jersey",shipped,credit_card,New Jersey,Paterson
+445,313,2025-03-09,4821.87,18.53,"2042 Elm St, Elizabeth, New Jersey",pending,credit_card,New Jersey,Elizabeth
+446,722,2025-02-12,278.73,21.39,"7178 Oak Ave, Elizabeth, New Jersey",pending,bank_transfer,New Jersey,Elizabeth
+447,568,2025-03-13,1880.63,9.9,"2675 Pine Rd, Elizabeth, New Jersey",pending,credit_card,New Jersey,Elizabeth
+448,352,2025-05-20,1947.78,6.39,"8112 Oak Ave, Elizabeth, New Jersey",completed,paypal,New Jersey,Elizabeth
+449,28,2025-05-16,1858.53,45.44,"3121 Main St, Elizabeth, New Jersey",shipped,credit_card,New Jersey,Elizabeth
+450,128,2025-06-23,163.85,20.99,"4288 Elm St, Elizabeth, New Jersey",completed,bank_transfer,New Jersey,Elizabeth
+451,313,2025-04-14,2457.42,38.99,"8432 Oak Ave, Elizabeth, New Jersey",shipped,bank_transfer,New Jersey,Elizabeth
+452,794,2025-02-09,4409.96,49.62,"4582 Oak Ave, Elizabeth, New Jersey",shipped,credit_card,New Jersey,Elizabeth
+453,924,2025-04-18,1134.83,20.72,"9159 Main St, Elizabeth, New Jersey",completed,paypal,New Jersey,Elizabeth
+454,430,2025-06-21,4957.25,10.38,"4572 Elm St, Elizabeth, New Jersey",shipped,paypal,New Jersey,Elizabeth
+455,892,2025-05-26,2886.56,42.7,"3352 Main St, Richmond, Virginia",shipped,bank_transfer,Virginia,Richmond
+456,986,2025-02-14,3438.97,20.25,"8940 Elm St, Richmond, Virginia",completed,credit_card,Virginia,Richmond
+457,39,2025-03-23,2196.65,31.81,"4386 Main St, Richmond, Virginia",completed,credit_card,Virginia,Richmond
+458,702,2025-02-24,3279.53,36.91,"5148 Oak Ave, Richmond, Virginia",pending,paypal,Virginia,Richmond
+459,613,2025-04-27,235.25,18.13,"8662 Main St, Richmond, Virginia",shipped,credit_card,Virginia,Richmond
+460,690,2025-06-14,4815.56,32.92,"1140 Oak Ave, Richmond, Virginia",completed,credit_card,Virginia,Richmond
+461,441,2025-07-07,3808.56,7.24,"7587 Main St, Richmond, Virginia",pending,paypal,Virginia,Richmond
+462,677,2025-02-10,354.94,30.12,"6753 Elm St, Richmond, Virginia",shipped,credit_card,Virginia,Richmond
+463,858,2025-07-01,1111.54,17.66,"9577 Oak Ave, Richmond, Virginia",completed,credit_card,Virginia,Richmond
+464,212,2025-02-20,573.16,13.99,"9343 Oak Ave, Virginia Beach, Virginia",pending,credit_card,Virginia,Virginia Beach
+465,221,2025-03-27,4062.99,9.77,"6136 Oak Ave, Virginia Beach, Virginia",shipped,credit_card,Virginia,Virginia Beach
+466,860,2025-05-14,3616.48,8.65,"4229 Oak Ave, Virginia Beach, Virginia",pending,paypal,Virginia,Virginia Beach
+467,625,2025-04-25,1800.27,9.57,"8858 Main St, Virginia Beach, Virginia",completed,credit_card,Virginia,Virginia Beach
+468,861,2025-06-24,1859.58,43.89,"4049 Elm St, Virginia Beach, Virginia",shipped,credit_card,Virginia,Virginia Beach
+469,641,2025-02-21,844.67,8.46,"7791 Main St, Virginia Beach, Virginia",completed,bank_transfer,Virginia,Virginia Beach
+470,751,2025-06-05,2541.81,44.0,"253 Elm St, Virginia Beach, Virginia",completed,bank_transfer,Virginia,Virginia Beach
+471,124,2025-03-06,2877.79,42.75,"7543 Oak Ave, Virginia Beach, Virginia",completed,credit_card,Virginia,Virginia Beach
+472,79,2025-06-12,1729.85,25.25,"7059 Oak Ave, Virginia Beach, Virginia",pending,paypal,Virginia,Virginia Beach
+473,40,2025-08-01,3999.08,22.54,"6435 Oak Ave, Virginia Beach, Virginia",pending,bank_transfer,Virginia,Virginia Beach
+474,52,2025-04-17,4642.47,35.87,"6943 Pine Rd, Virginia Beach, Virginia",shipped,bank_transfer,Virginia,Virginia Beach
+475,456,2025-05-31,2632.94,37.82,"4292 Pine Rd, Virginia Beach, Virginia",completed,bank_transfer,Virginia,Virginia Beach
+476,823,2025-06-09,2508.61,10.3,"4820 Elm St, Virginia Beach, Virginia",pending,bank_transfer,Virginia,Virginia Beach
+477,558,2025-04-03,2770.84,41.5,"8430 Elm St, Norfolk, Virginia",completed,credit_card,Virginia,Norfolk
+478,599,2025-03-25,4083.44,47.13,"4508 Main St, Norfolk, Virginia",pending,bank_transfer,Virginia,Norfolk
+479,239,2025-03-03,522.78,37.43,"4665 Main St, Norfolk, Virginia",pending,bank_transfer,Virginia,Norfolk
+480,195,2025-02-14,3691.32,11.84,"3778 Oak Ave, Norfolk, Virginia",completed,paypal,Virginia,Norfolk
+481,666,2025-04-18,1254.1,9.99,"7147 Elm St, Norfolk, Virginia",completed,paypal,Virginia,Norfolk
+482,755,2025-07-26,4384.39,21.38,"2839 Oak Ave, Norfolk, Virginia",completed,paypal,Virginia,Norfolk
+483,355,2025-06-21,3157.46,27.84,"5912 Elm St, Norfolk, Virginia",shipped,credit_card,Virginia,Norfolk
+484,147,2025-06-06,1700.76,48.76,"918 Pine Rd, Norfolk, Virginia",pending,credit_card,Virginia,Norfolk
+485,865,2025-04-26,1244.96,46.81,"7638 Oak Ave, Norfolk, Virginia",completed,bank_transfer,Virginia,Norfolk
+486,557,2025-02-11,1691.0,21.56,"7493 Elm St, Norfolk, Virginia",completed,paypal,Virginia,Norfolk
+487,798,2025-05-27,1156.16,42.32,"3725 Pine Rd, Norfolk, Virginia",completed,paypal,Virginia,Norfolk
+488,522,2025-04-13,4076.32,39.04,"5685 Pine Rd, Arlington, Virginia",pending,credit_card,Virginia,Arlington
+489,772,2025-06-11,3391.23,48.92,"4681 Pine Rd, Arlington, Virginia",pending,credit_card,Virginia,Arlington
+490,590,2025-06-04,3810.42,10.47,"6542 Pine Rd, Arlington, Virginia",pending,bank_transfer,Virginia,Arlington
+491,734,2025-05-20,3877.73,49.65,"5340 Oak Ave, Arlington, Virginia",completed,credit_card,Virginia,Arlington
+492,394,2025-04-10,396.72,47.14,"8432 Oak Ave, Arlington, Virginia",pending,bank_transfer,Virginia,Arlington
+493,190,2025-04-07,2899.87,46.58,"8869 Pine Rd, Arlington, Virginia",pending,paypal,Virginia,Arlington
+494,921,2025-06-15,3872.99,26.38,"3602 Oak Ave, Arlington, Virginia",shipped,paypal,Virginia,Arlington
+495,433,2025-07-14,3166.86,33.15,"2810 Elm St, Arlington, Virginia",pending,credit_card,Virginia,Arlington
+496,187,2025-03-02,3170.7,37.29,"6670 Main St, Arlington, Virginia",completed,credit_card,Virginia,Arlington
+497,860,2025-08-01,298.4,22.68,"931 Elm St, Arlington, Virginia",completed,credit_card,Virginia,Arlington
+498,405,2025-07-29,3231.89,19.78,"2555 Oak Ave, Arlington, Virginia",pending,credit_card,Virginia,Arlington
+499,195,2025-07-09,779.63,36.46,"2089 Elm St, Arlington, Virginia",completed,paypal,Virginia,Arlington
+500,366,2025-05-12,4932.19,10.66,"2652 Oak Ave, Arlington, Virginia",shipped,paypal,Virginia,Arlington
+501,400,2025-02-03,4901.8,8.43,"570 Pine Rd, Arlington, Virginia",shipped,bank_transfer,Virginia,Arlington
+502,318,2025-07-11,3319.2,32.39,"2409 Main St, Arlington, Virginia",completed,credit_card,Virginia,Arlington
+503,631,2025-03-28,2999.16,31.83,"5307 Elm St, Seattle, Washington",shipped,credit_card,Washington,Seattle
+504,367,2025-03-27,175.04,47.82,"4457 Main St, Seattle, Washington",shipped,paypal,Washington,Seattle
+505,961,2025-05-06,4226.97,37.64,"1477 Oak Ave, Seattle, Washington",shipped,paypal,Washington,Seattle
+506,273,2025-02-12,192.47,17.3,"878 Pine Rd, Seattle, Washington",pending,paypal,Washington,Seattle
+507,403,2025-06-10,1796.96,45.34,"3480 Oak Ave, Seattle, Washington",pending,paypal,Washington,Seattle
+508,962,2025-03-05,4700.75,20.63,"752 Oak Ave, Seattle, Washington",pending,bank_transfer,Washington,Seattle
+509,887,2025-03-21,2570.51,9.26,"3046 Elm St, Spokane, Washington",pending,bank_transfer,Washington,Spokane
+510,477,2025-05-21,3463.95,33.03,"733 Elm St, Spokane, Washington",pending,paypal,Washington,Spokane
+511,924,2025-05-15,2813.74,20.4,"7009 Main St, Spokane, Washington",completed,bank_transfer,Washington,Spokane
+512,935,2025-04-03,4729.87,12.22,"5229 Oak Ave, Spokane, Washington",pending,bank_transfer,Washington,Spokane
+513,746,2025-07-05,652.92,39.82,"7471 Elm St, Spokane, Washington",completed,bank_transfer,Washington,Spokane
+514,707,2025-05-02,1804.19,39.35,"3321 Pine Rd, Spokane, Washington",shipped,paypal,Washington,Spokane
+515,699,2025-06-21,1862.52,47.97,"7282 Pine Rd, Spokane, Washington",pending,bank_transfer,Washington,Spokane
+516,583,2025-06-07,292.65,14.65,"1773 Pine Rd, Spokane, Washington",completed,paypal,Washington,Spokane
+517,576,2025-02-28,281.43,35.21,"2912 Main St, Spokane, Washington",completed,paypal,Washington,Spokane
+518,478,2025-05-03,3088.49,49.08,"5089 Elm St, Tacoma, Washington",pending,paypal,Washington,Tacoma
+519,113,2025-04-29,2785.55,11.81,"3934 Oak Ave, Tacoma, Washington",pending,bank_transfer,Washington,Tacoma
+520,262,2025-04-08,3570.42,32.53,"9133 Oak Ave, Tacoma, Washington",shipped,paypal,Washington,Tacoma
+521,329,2025-06-24,1336.14,26.29,"6289 Elm St, Tacoma, Washington",pending,bank_transfer,Washington,Tacoma
+522,920,2025-02-11,2466.08,29.16,"5893 Elm St, Tacoma, Washington",completed,paypal,Washington,Tacoma
+523,785,2025-03-07,280.43,30.34,"5243 Main St, Vancouver, Washington",pending,credit_card,Washington,Vancouver
+524,730,2025-03-09,3097.37,6.95,"5264 Pine Rd, Vancouver, Washington",shipped,credit_card,Washington,Vancouver
+525,103,2025-02-10,1196.12,33.28,"5530 Main St, Vancouver, Washington",completed,bank_transfer,Washington,Vancouver
+526,976,2025-04-05,350.94,38.59,"4813 Main St, Vancouver, Washington",completed,paypal,Washington,Vancouver
+527,735,2025-03-12,1670.65,44.06,"3063 Pine Rd, Vancouver, Washington",completed,credit_card,Washington,Vancouver
+528,969,2025-06-09,960.84,37.38,"3698 Elm St, Vancouver, Washington",completed,bank_transfer,Washington,Vancouver
+529,931,2025-03-10,1989.83,30.41,"7063 Main St, Vancouver, Washington",completed,bank_transfer,Washington,Vancouver
+530,471,2025-07-14,2156.82,23.94,"6996 Oak Ave, Vancouver, Washington",completed,bank_transfer,Washington,Vancouver
+531,201,2025-04-22,3832.86,32.41,"4759 Pine Rd, Vancouver, Washington",pending,bank_transfer,Washington,Vancouver
+532,348,2025-06-17,928.37,40.05,"1678 Elm St, Phoenix, Arizona",completed,credit_card,Arizona,Phoenix
+533,942,2025-07-24,1504.71,43.5,"4705 Oak Ave, Phoenix, Arizona",completed,bank_transfer,Arizona,Phoenix
+534,618,2025-03-28,1462.04,12.18,"3171 Pine Rd, Phoenix, Arizona",completed,bank_transfer,Arizona,Phoenix
+535,10,2025-03-25,457.47,24.08,"8711 Pine Rd, Phoenix, Arizona",shipped,paypal,Arizona,Phoenix
+536,693,2025-04-18,2964.47,32.16,"5091 Pine Rd, Phoenix, Arizona",shipped,credit_card,Arizona,Phoenix
+537,153,2025-02-24,4143.57,34.6,"4485 Main St, Phoenix, Arizona",shipped,bank_transfer,Arizona,Phoenix
+538,750,2025-07-15,289.79,16.4,"5680 Pine Rd, Phoenix, Arizona",completed,paypal,Arizona,Phoenix
+539,916,2025-06-13,2332.25,6.0,"2461 Oak Ave, Phoenix, Arizona",shipped,bank_transfer,Arizona,Phoenix
+540,886,2025-03-31,3015.76,12.45,"3444 Oak Ave, Phoenix, Arizona",pending,paypal,Arizona,Phoenix
+541,56,2025-05-10,3735.88,22.88,"1575 Oak Ave, Phoenix, Arizona",shipped,bank_transfer,Arizona,Phoenix
+542,42,2025-04-27,3743.85,41.52,"3136 Main St, Phoenix, Arizona",shipped,bank_transfer,Arizona,Phoenix
+543,2,2025-04-09,1958.58,30.53,"2066 Main St, Phoenix, Arizona",pending,paypal,Arizona,Phoenix
+544,657,2025-03-20,3849.92,8.96,"5506 Oak Ave, Phoenix, Arizona",shipped,bank_transfer,Arizona,Phoenix
+545,26,2025-04-06,3931.01,21.8,"7559 Main St, Phoenix, Arizona",shipped,paypal,Arizona,Phoenix
+546,716,2025-04-18,2620.99,11.56,"1331 Main St, Tucson, Arizona",shipped,bank_transfer,Arizona,Tucson
+547,889,2025-04-11,250.31,22.52,"2478 Elm St, Tucson, Arizona",completed,paypal,Arizona,Tucson
+548,754,2025-02-18,3255.81,28.32,"6803 Main St, Tucson, Arizona",completed,paypal,Arizona,Tucson
+549,410,2025-06-24,2906.31,21.55,"1897 Pine Rd, Tucson, Arizona",completed,credit_card,Arizona,Tucson
+550,61,2025-03-02,845.88,12.88,"1544 Main St, Tucson, Arizona",completed,credit_card,Arizona,Tucson
+551,18,2025-04-26,3064.28,8.84,"1338 Elm St, Tucson, Arizona",shipped,paypal,Arizona,Tucson
+552,585,2025-07-25,3830.65,47.55,"6053 Pine Rd, Tucson, Arizona",completed,bank_transfer,Arizona,Tucson
+553,271,2025-07-27,3910.71,22.27,"5429 Main St, Tucson, Arizona",pending,paypal,Arizona,Tucson
+554,437,2025-06-05,2060.78,13.29,"773 Pine Rd, Tucson, Arizona",shipped,bank_transfer,Arizona,Tucson
+555,202,2025-04-09,1232.57,25.86,"2779 Oak Ave, Tucson, Arizona",completed,paypal,Arizona,Tucson
+556,585,2025-06-12,4418.1,34.24,"3571 Oak Ave, Tucson, Arizona",completed,bank_transfer,Arizona,Tucson
+557,314,2025-04-24,1150.35,13.55,"8272 Pine Rd, Tucson, Arizona",completed,bank_transfer,Arizona,Tucson
+558,584,2025-05-21,3428.81,19.19,"6058 Elm St, Tucson, Arizona",completed,credit_card,Arizona,Tucson
+559,845,2025-07-28,1406.06,42.48,"7017 Main St, Mesa, Arizona",completed,credit_card,Arizona,Mesa
+560,492,2025-03-24,1871.45,18.84,"7470 Elm St, Mesa, Arizona",pending,credit_card,Arizona,Mesa
+561,751,2025-06-15,1041.52,23.7,"6919 Oak Ave, Mesa, Arizona",shipped,credit_card,Arizona,Mesa
+562,862,2025-05-27,1015.77,21.68,"6780 Elm St, Mesa, Arizona",completed,bank_transfer,Arizona,Mesa
+563,309,2025-05-05,185.25,40.05,"5824 Pine Rd, Mesa, Arizona",completed,paypal,Arizona,Mesa
+564,511,2025-05-12,2777.5,17.77,"6579 Elm St, Mesa, Arizona",pending,credit_card,Arizona,Mesa
+565,939,2025-04-15,879.22,31.39,"1261 Main St, Mesa, Arizona",pending,credit_card,Arizona,Mesa
+566,78,2025-02-05,693.51,30.54,"108 Elm St, Mesa, Arizona",completed,bank_transfer,Arizona,Mesa
+567,446,2025-07-30,4823.2,27.8,"6553 Oak Ave, Mesa, Arizona",shipped,credit_card,Arizona,Mesa
+568,711,2025-07-30,1444.6,5.03,"116 Elm St, Mesa, Arizona",pending,paypal,Arizona,Mesa
+569,491,2025-02-22,3208.38,48.36,"4889 Main St, Mesa, Arizona",shipped,credit_card,Arizona,Mesa
+570,769,2025-02-06,2006.93,27.55,"784 Pine Rd, Mesa, Arizona",completed,bank_transfer,Arizona,Mesa
+571,203,2025-03-08,2784.76,30.57,"5694 Pine Rd, Mesa, Arizona",shipped,paypal,Arizona,Mesa
+572,416,2025-07-28,2176.0,32.49,"9563 Oak Ave, Mesa, Arizona",completed,bank_transfer,Arizona,Mesa
+573,64,2025-03-04,2704.39,44.57,"1053 Main St, Mesa, Arizona",shipped,bank_transfer,Arizona,Mesa
+574,260,2025-04-14,2816.03,23.72,"1648 Main St, Scottsdale, Arizona",completed,bank_transfer,Arizona,Scottsdale
+575,264,2025-07-10,4997.48,31.97,"9080 Main St, Scottsdale, Arizona",pending,credit_card,Arizona,Scottsdale
+576,383,2025-07-11,4307.03,5.64,"2695 Elm St, Scottsdale, Arizona",shipped,paypal,Arizona,Scottsdale
+577,593,2025-07-11,4628.66,43.58,"7237 Elm St, Scottsdale, Arizona",completed,paypal,Arizona,Scottsdale
+578,309,2025-06-04,4128.67,46.82,"596 Main St, Scottsdale, Arizona",pending,bank_transfer,Arizona,Scottsdale
+579,810,2025-03-19,706.36,23.5,"8375 Pine Rd, Scottsdale, Arizona",pending,paypal,Arizona,Scottsdale
+580,729,2025-07-08,1726.22,45.28,"5124 Pine Rd, Scottsdale, Arizona",completed,credit_card,Arizona,Scottsdale
+581,587,2025-07-09,4701.49,38.03,"8897 Elm St, Scottsdale, Arizona",pending,bank_transfer,Arizona,Scottsdale
+582,660,2025-06-25,4837.85,9.16,"8687 Main St, Scottsdale, Arizona",completed,bank_transfer,Arizona,Scottsdale
+583,634,2025-04-21,2197.16,22.11,"1069 Oak Ave, Scottsdale, Arizona",shipped,paypal,Arizona,Scottsdale
+584,504,2025-04-20,2631.3,38.3,"8976 Oak Ave, Scottsdale, Arizona",shipped,paypal,Arizona,Scottsdale
+585,297,2025-05-20,799.99,36.75,"6300 Main St, Scottsdale, Arizona",pending,bank_transfer,Arizona,Scottsdale
+586,946,2025-06-13,4180.06,36.92,"1322 Elm St, Scottsdale, Arizona",completed,credit_card,Arizona,Scottsdale
+587,863,2025-06-05,3228.7,18.64,"965 Main St, Scottsdale, Arizona",completed,bank_transfer,Arizona,Scottsdale
+588,103,2025-02-28,2341.93,44.87,"6922 Oak Ave, Scottsdale, Arizona",shipped,paypal,Arizona,Scottsdale
+589,489,2025-08-02,1468.07,19.17,"468 Main St, Boston, Massachusetts",completed,bank_transfer,Massachusetts,Boston
+590,997,2025-02-26,538.59,16.47,"2783 Pine Rd, Boston, Massachusetts",shipped,paypal,Massachusetts,Boston
+591,238,2025-03-20,3259.85,38.08,"4486 Main St, Boston, Massachusetts",completed,credit_card,Massachusetts,Boston
+592,442,2025-06-10,102.48,20.41,"2955 Oak Ave, Boston, Massachusetts",shipped,bank_transfer,Massachusetts,Boston
+593,877,2025-07-11,4657.69,19.94,"2013 Main St, Boston, Massachusetts",shipped,bank_transfer,Massachusetts,Boston
+594,341,2025-02-16,4948.56,35.19,"7108 Main St, Boston, Massachusetts",completed,credit_card,Massachusetts,Boston
+595,242,2025-07-02,2502.63,46.38,"367 Pine Rd, Boston, Massachusetts",shipped,paypal,Massachusetts,Boston
+596,668,2025-07-01,222.81,12.08,"2605 Elm St, Worcester, Massachusetts",shipped,bank_transfer,Massachusetts,Worcester
+597,474,2025-07-14,509.33,29.04,"1845 Elm St, Worcester, Massachusetts",completed,bank_transfer,Massachusetts,Worcester
+598,207,2025-03-10,4387.99,43.15,"1524 Pine Rd, Worcester, Massachusetts",pending,credit_card,Massachusetts,Worcester
+599,96,2025-06-28,3269.17,35.86,"8435 Pine Rd, Worcester, Massachusetts",pending,credit_card,Massachusetts,Worcester
+600,139,2025-06-19,256.79,30.65,"8947 Elm St, Worcester, Massachusetts",completed,bank_transfer,Massachusetts,Worcester
+601,151,2025-02-04,3937.11,46.74,"1647 Elm St, Worcester, Massachusetts",completed,paypal,Massachusetts,Worcester
+602,39,2025-07-26,2375.12,9.9,"6383 Main St, Worcester, Massachusetts",pending,credit_card,Massachusetts,Worcester
+603,214,2025-06-03,3068.36,40.7,"6318 Main St, Worcester, Massachusetts",pending,bank_transfer,Massachusetts,Worcester
+604,396,2025-04-28,2057.21,6.26,"7437 Pine Rd, Worcester, Massachusetts",shipped,credit_card,Massachusetts,Worcester
+605,449,2025-06-01,4763.8,9.05,"1426 Main St, Worcester, Massachusetts",pending,credit_card,Massachusetts,Worcester
+606,966,2025-02-27,3842.32,27.52,"1348 Elm St, Worcester, Massachusetts",shipped,bank_transfer,Massachusetts,Worcester
+607,624,2025-06-21,4847.14,37.83,"739 Elm St, Worcester, Massachusetts",pending,paypal,Massachusetts,Worcester
+608,547,2025-07-07,638.94,27.85,"7799 Pine Rd, Worcester, Massachusetts",pending,bank_transfer,Massachusetts,Worcester
+609,858,2025-04-18,4028.1,9.09,"6310 Main St, Springfield, Massachusetts",pending,credit_card,Massachusetts,Springfield
+610,761,2025-03-03,1519.87,22.95,"3754 Pine Rd, Springfield, Massachusetts",pending,credit_card,Massachusetts,Springfield
+611,717,2025-02-19,1891.52,46.88,"7270 Elm St, Springfield, Massachusetts",completed,bank_transfer,Massachusetts,Springfield
+612,755,2025-07-17,1195.62,29.53,"6280 Pine Rd, Springfield, Massachusetts",completed,bank_transfer,Massachusetts,Springfield
+613,300,2025-05-17,2589.84,22.49,"1488 Oak Ave, Springfield, Massachusetts",shipped,credit_card,Massachusetts,Springfield
+614,791,2025-06-23,3514.19,19.94,"9875 Pine Rd, Springfield, Massachusetts",shipped,bank_transfer,Massachusetts,Springfield
+615,276,2025-05-10,391.78,6.74,"9814 Oak Ave, Springfield, Massachusetts",pending,bank_transfer,Massachusetts,Springfield
+616,806,2025-02-12,3104.39,13.01,"1064 Pine Rd, Springfield, Massachusetts",completed,credit_card,Massachusetts,Springfield
+617,586,2025-03-25,1671.91,47.87,"8887 Elm St, Springfield, Massachusetts",completed,paypal,Massachusetts,Springfield
+618,130,2025-07-16,2656.85,27.29,"3989 Main St, Springfield, Massachusetts",pending,paypal,Massachusetts,Springfield
+619,561,2025-07-01,2291.69,8.6,"4045 Oak Ave, Springfield, Massachusetts",pending,bank_transfer,Massachusetts,Springfield
+620,153,2025-05-13,4922.32,41.01,"2706 Oak Ave, Springfield, Massachusetts",completed,paypal,Massachusetts,Springfield
+621,344,2025-05-20,1881.42,5.57,"3591 Pine Rd, Cambridge, Massachusetts",completed,credit_card,Massachusetts,Cambridge
+622,275,2025-03-05,4427.09,16.7,"1895 Main St, Cambridge, Massachusetts",pending,paypal,Massachusetts,Cambridge
+623,856,2025-04-16,4178.67,39.48,"5852 Main St, Cambridge, Massachusetts",completed,credit_card,Massachusetts,Cambridge
+624,871,2025-03-12,1927.76,43.35,"1128 Oak Ave, Cambridge, Massachusetts",shipped,bank_transfer,Massachusetts,Cambridge
+625,874,2025-03-05,2134.04,35.06,"3650 Pine Rd, Cambridge, Massachusetts",pending,paypal,Massachusetts,Cambridge
+626,601,2025-07-10,4193.71,7.13,"6340 Elm St, Cambridge, Massachusetts",shipped,bank_transfer,Massachusetts,Cambridge
+627,296,2025-02-04,851.77,24.21,"8934 Main St, Cambridge, Massachusetts",shipped,credit_card,Massachusetts,Cambridge
+628,684,2025-06-17,3398.95,11.27,"4862 Oak Ave, Cambridge, Massachusetts",completed,bank_transfer,Massachusetts,Cambridge
+629,557,2025-03-18,4574.36,42.15,"2666 Oak Ave, Cambridge, Massachusetts",completed,paypal,Massachusetts,Cambridge
+630,909,2025-06-29,3421.4,43.24,"673 Pine Rd, Cambridge, Massachusetts",pending,credit_card,Massachusetts,Cambridge
+631,398,2025-06-13,2854.19,44.63,"7858 Main St, Cambridge, Massachusetts",pending,credit_card,Massachusetts,Cambridge
+632,16,2025-06-16,4647.21,30.95,"7680 Main St, Cambridge, Massachusetts",shipped,credit_card,Massachusetts,Cambridge
+633,72,2025-06-12,3315.3,35.5,"8317 Pine Rd, Nashville, Tennessee",shipped,credit_card,Tennessee,Nashville
+634,27,2025-06-13,691.72,28.79,"7314 Oak Ave, Nashville, Tennessee",completed,paypal,Tennessee,Nashville
+635,876,2025-06-05,960.78,15.07,"4432 Main St, Nashville, Tennessee",pending,bank_transfer,Tennessee,Nashville
+636,653,2025-06-06,947.21,27.12,"7073 Pine Rd, Nashville, Tennessee",completed,credit_card,Tennessee,Nashville
+637,772,2025-04-06,4062.08,21.13,"9875 Pine Rd, Nashville, Tennessee",shipped,bank_transfer,Tennessee,Nashville
+638,402,2025-06-10,4915.39,12.59,"5413 Pine Rd, Nashville, Tennessee",pending,credit_card,Tennessee,Nashville
+639,725,2025-07-17,3738.21,32.65,"9549 Oak Ave, Memphis, Tennessee",completed,paypal,Tennessee,Memphis
+640,675,2025-03-28,2855.29,9.58,"3129 Oak Ave, Memphis, Tennessee",pending,paypal,Tennessee,Memphis
+641,531,2025-03-15,1149.66,28.11,"8294 Main St, Memphis, Tennessee",completed,bank_transfer,Tennessee,Memphis
+642,617,2025-04-27,3878.11,45.56,"5197 Main St, Memphis, Tennessee",pending,paypal,Tennessee,Memphis
+643,959,2025-07-04,4251.6,22.78,"6417 Main St, Memphis, Tennessee",pending,credit_card,Tennessee,Memphis
+644,190,2025-02-28,931.89,28.33,"4029 Elm St, Memphis, Tennessee",shipped,bank_transfer,Tennessee,Memphis
+645,798,2025-03-28,1345.0,36.11,"4184 Main St, Memphis, Tennessee",shipped,paypal,Tennessee,Memphis
+646,221,2025-07-28,1146.0,35.74,"7625 Elm St, Memphis, Tennessee",pending,paypal,Tennessee,Memphis
+647,584,2025-05-20,3726.9,29.34,"9163 Elm St, Knoxville, Tennessee",shipped,paypal,Tennessee,Knoxville
+648,890,2025-07-26,4497.13,10.66,"9732 Pine Rd, Knoxville, Tennessee",shipped,credit_card,Tennessee,Knoxville
+649,167,2025-04-27,143.88,28.89,"1689 Pine Rd, Knoxville, Tennessee",shipped,bank_transfer,Tennessee,Knoxville
+650,500,2025-04-25,1611.89,48.22,"7443 Elm St, Knoxville, Tennessee",shipped,bank_transfer,Tennessee,Knoxville
+651,325,2025-06-14,3698.56,30.94,"477 Oak Ave, Knoxville, Tennessee",completed,credit_card,Tennessee,Knoxville
+652,815,2025-03-22,4385.06,21.6,"1331 Main St, Knoxville, Tennessee",shipped,paypal,Tennessee,Knoxville
+653,248,2025-07-31,582.06,21.76,"7904 Pine Rd, Knoxville, Tennessee",shipped,credit_card,Tennessee,Knoxville
+654,635,2025-03-17,1399.54,44.56,"7218 Elm St, Knoxville, Tennessee",completed,credit_card,Tennessee,Knoxville
+655,533,2025-06-17,906.62,38.53,"2668 Main St, Knoxville, Tennessee",pending,paypal,Tennessee,Knoxville
+656,855,2025-08-02,4588.24,37.04,"4353 Pine Rd, Knoxville, Tennessee",pending,credit_card,Tennessee,Knoxville
+657,980,2025-07-10,2084.91,34.34,"5775 Oak Ave, Knoxville, Tennessee",shipped,bank_transfer,Tennessee,Knoxville
+658,86,2025-02-06,551.54,23.59,"2891 Oak Ave, Knoxville, Tennessee",shipped,credit_card,Tennessee,Knoxville
+659,135,2025-02-20,3988.66,42.42,"8250 Main St, Knoxville, Tennessee",pending,paypal,Tennessee,Knoxville
+660,349,2025-04-24,4674.89,10.91,"5948 Elm St, Knoxville, Tennessee",shipped,credit_card,Tennessee,Knoxville
+661,337,2025-05-15,4836.66,28.54,"9765 Main St, Chattanooga, Tennessee",completed,credit_card,Tennessee,Chattanooga
+662,499,2025-04-22,3943.66,15.94,"9350 Pine Rd, Chattanooga, Tennessee",completed,bank_transfer,Tennessee,Chattanooga
+663,177,2025-06-13,3310.39,5.52,"8628 Main St, Chattanooga, Tennessee",pending,credit_card,Tennessee,Chattanooga
+664,648,2025-02-11,2870.33,23.29,"7814 Pine Rd, Chattanooga, Tennessee",pending,paypal,Tennessee,Chattanooga
+665,874,2025-07-14,4329.37,44.47,"1484 Elm St, Chattanooga, Tennessee",pending,paypal,Tennessee,Chattanooga
+666,134,2025-06-26,2924.83,9.01,"4685 Elm St, Chattanooga, Tennessee",completed,paypal,Tennessee,Chattanooga
+667,750,2025-07-08,4806.21,32.2,"3946 Pine Rd, Chattanooga, Tennessee",shipped,bank_transfer,Tennessee,Chattanooga
+668,516,2025-06-25,2253.08,27.44,"9471 Elm St, Chattanooga, Tennessee",pending,bank_transfer,Tennessee,Chattanooga
+669,786,2025-02-24,3106.77,22.46,"7754 Pine Rd, Indianapolis, Indiana",shipped,credit_card,Indiana,Indianapolis
+670,836,2025-07-02,3125.94,15.07,"1362 Elm St, Indianapolis, Indiana",pending,bank_transfer,Indiana,Indianapolis
+671,721,2025-08-01,562.47,32.13,"5737 Oak Ave, Indianapolis, Indiana",pending,credit_card,Indiana,Indianapolis
+672,740,2025-07-30,3727.44,9.31,"496 Pine Rd, Indianapolis, Indiana",completed,paypal,Indiana,Indianapolis
+673,390,2025-03-01,2109.24,43.09,"4729 Pine Rd, Indianapolis, Indiana",pending,bank_transfer,Indiana,Indianapolis
+674,461,2025-05-03,4573.92,35.12,"6504 Oak Ave, Indianapolis, Indiana",completed,bank_transfer,Indiana,Indianapolis
+675,53,2025-05-30,3486.21,38.61,"9572 Pine Rd, Indianapolis, Indiana",shipped,credit_card,Indiana,Indianapolis
+676,412,2025-06-20,3876.64,19.8,"366 Main St, Indianapolis, Indiana",completed,bank_transfer,Indiana,Indianapolis
+677,735,2025-05-18,3072.2,19.33,"9491 Oak Ave, Fort Wayne, Indiana",shipped,bank_transfer,Indiana,Fort Wayne
+678,650,2025-06-18,354.33,14.45,"685 Pine Rd, Fort Wayne, Indiana",pending,credit_card,Indiana,Fort Wayne
+679,138,2025-05-01,4644.61,10.3,"7050 Pine Rd, Fort Wayne, Indiana",shipped,paypal,Indiana,Fort Wayne
+680,730,2025-05-04,4094.39,36.94,"7902 Oak Ave, Fort Wayne, Indiana",completed,bank_transfer,Indiana,Fort Wayne
+681,276,2025-05-01,1445.98,49.96,"3681 Pine Rd, Fort Wayne, Indiana",pending,paypal,Indiana,Fort Wayne
+682,698,2025-03-13,2782.05,24.25,"5547 Pine Rd, Fort Wayne, Indiana",completed,credit_card,Indiana,Fort Wayne
+683,688,2025-06-03,581.62,45.25,"3308 Oak Ave, Fort Wayne, Indiana",pending,paypal,Indiana,Fort Wayne
+684,788,2025-06-12,4477.71,49.74,"252 Main St, Fort Wayne, Indiana",completed,paypal,Indiana,Fort Wayne
+685,861,2025-02-14,4838.83,27.65,"4049 Pine Rd, Fort Wayne, Indiana",pending,bank_transfer,Indiana,Fort Wayne
+686,468,2025-06-22,1032.96,41.34,"108 Elm St, Fort Wayne, Indiana",pending,bank_transfer,Indiana,Fort Wayne
+687,961,2025-05-02,2752.1,21.41,"5585 Main St, Fort Wayne, Indiana",completed,credit_card,Indiana,Fort Wayne
+688,348,2025-06-08,1536.67,18.13,"5684 Main St, Fort Wayne, Indiana",completed,paypal,Indiana,Fort Wayne
+689,906,2025-05-09,813.35,27.38,"8579 Elm St, Fort Wayne, Indiana",shipped,paypal,Indiana,Fort Wayne
+690,288,2025-05-23,901.36,46.21,"6184 Oak Ave, Fort Wayne, Indiana",completed,credit_card,Indiana,Fort Wayne
+691,503,2025-05-01,314.5,23.72,"1982 Elm St, Evansville, Indiana",pending,paypal,Indiana,Evansville
+692,449,2025-07-08,4212.76,32.67,"8465 Main St, Evansville, Indiana",shipped,bank_transfer,Indiana,Evansville
+693,570,2025-02-06,4870.45,49.5,"953 Main St, Evansville, Indiana",pending,paypal,Indiana,Evansville
+694,39,2025-04-03,3521.72,20.55,"5422 Elm St, Evansville, Indiana",pending,credit_card,Indiana,Evansville
+695,285,2025-03-13,4161.3,24.62,"9787 Elm St, Evansville, Indiana",pending,paypal,Indiana,Evansville
+696,512,2025-04-27,1111.82,7.19,"1121 Pine Rd, Evansville, Indiana",shipped,paypal,Indiana,Evansville
+697,823,2025-06-01,1215.13,12.02,"7198 Pine Rd, South Bend, Indiana",shipped,paypal,Indiana,South Bend
+698,424,2025-02-22,1883.73,29.96,"556 Oak Ave, South Bend, Indiana",pending,bank_transfer,Indiana,South Bend
+699,424,2025-03-17,2020.13,42.21,"5133 Main St, South Bend, Indiana",completed,paypal,Indiana,South Bend
+700,768,2025-02-06,3330.8,26.91,"2811 Oak Ave, South Bend, Indiana",pending,paypal,Indiana,South Bend
+701,623,2025-06-29,438.14,21.04,"5119 Pine Rd, South Bend, Indiana",completed,paypal,Indiana,South Bend
+702,457,2025-04-26,2490.36,22.9,"6517 Elm St, South Bend, Indiana",pending,credit_card,Indiana,South Bend
+703,420,2025-05-12,4893.14,36.47,"6814 Main St, South Bend, Indiana",shipped,paypal,Indiana,South Bend
+704,726,2025-03-15,385.07,31.0,"168 Elm St, South Bend, Indiana",completed,credit_card,Indiana,South Bend
+705,91,2025-02-09,1467.8,40.03,"7232 Elm St, South Bend, Indiana",completed,bank_transfer,Indiana,South Bend
+706,780,2025-07-21,3875.05,25.42,"8184 Pine Rd, South Bend, Indiana",completed,paypal,Indiana,South Bend
+707,530,2025-07-18,1774.16,14.32,"3432 Oak Ave, South Bend, Indiana",shipped,paypal,Indiana,South Bend
+708,892,2025-04-17,2464.37,36.33,"7680 Oak Ave, South Bend, Indiana",pending,paypal,Indiana,South Bend
+709,44,2025-02-28,1263.7,18.49,"9921 Pine Rd, South Bend, Indiana",pending,bank_transfer,Indiana,South Bend
+710,639,2025-05-10,2055.33,45.74,"7014 Oak Ave, South Bend, Indiana",completed,bank_transfer,Indiana,South Bend
+711,102,2025-02-13,3558.45,44.8,"8051 Elm St, South Bend, Indiana",pending,paypal,Indiana,South Bend
+712,316,2025-07-10,2016.33,29.47,"1556 Pine Rd, Kansas City, Missouri",pending,bank_transfer,Missouri,Kansas City
+713,161,2025-03-04,814.42,47.02,"4254 Main St, Kansas City, Missouri",completed,bank_transfer,Missouri,Kansas City
+714,515,2025-06-02,1884.9,5.77,"7651 Pine Rd, Kansas City, Missouri",pending,paypal,Missouri,Kansas City
+715,531,2025-07-29,2675.75,34.85,"5608 Pine Rd, Kansas City, Missouri",pending,paypal,Missouri,Kansas City
+716,74,2025-07-19,1872.45,45.1,"8405 Main St, Kansas City, Missouri",pending,paypal,Missouri,Kansas City
+717,400,2025-05-03,2509.34,41.21,"1300 Main St, Kansas City, Missouri",pending,bank_transfer,Missouri,Kansas City
+718,631,2025-02-24,2527.65,26.82,"5445 Main St, Kansas City, Missouri",pending,credit_card,Missouri,Kansas City
+719,27,2025-03-20,4560.08,27.04,"4935 Oak Ave, Kansas City, Missouri",shipped,bank_transfer,Missouri,Kansas City
+720,671,2025-06-10,4231.28,28.07,"2279 Pine Rd, Kansas City, Missouri",shipped,bank_transfer,Missouri,Kansas City
+721,646,2025-04-22,124.05,31.32,"1209 Pine Rd, Kansas City, Missouri",completed,credit_card,Missouri,Kansas City
+722,750,2025-02-08,2374.56,41.4,"1662 Main St, Kansas City, Missouri",pending,credit_card,Missouri,Kansas City
+723,886,2025-02-23,4760.64,37.49,"3036 Main St, Kansas City, Missouri",completed,paypal,Missouri,Kansas City
+724,305,2025-05-24,403.36,11.19,"4498 Elm St, Kansas City, Missouri",pending,credit_card,Missouri,Kansas City
+725,238,2025-02-15,1344.55,19.19,"3217 Oak Ave, St. Louis, Missouri",shipped,bank_transfer,Missouri,St. Louis
+726,519,2025-05-11,4136.19,30.08,"7789 Main St, St. Louis, Missouri",shipped,paypal,Missouri,St. Louis
+727,364,2025-02-21,1815.9,8.94,"7111 Pine Rd, St. Louis, Missouri",completed,bank_transfer,Missouri,St. Louis
+728,525,2025-02-17,2325.86,46.94,"8040 Elm St, St. Louis, Missouri",shipped,paypal,Missouri,St. Louis
+729,720,2025-06-10,544.98,35.04,"1961 Oak Ave, St. Louis, Missouri",completed,credit_card,Missouri,St. Louis
+730,956,2025-05-14,1875.12,17.92,"5080 Main St, St. Louis, Missouri",completed,bank_transfer,Missouri,St. Louis
+731,738,2025-07-28,746.45,11.12,"3425 Main St, Springfield, Missouri",pending,paypal,Missouri,Springfield
+732,574,2025-05-14,3218.94,27.6,"594 Main St, Springfield, Missouri",pending,credit_card,Missouri,Springfield
+733,943,2025-05-19,3305.19,14.36,"5443 Oak Ave, Springfield, Missouri",shipped,paypal,Missouri,Springfield
+734,404,2025-07-14,2322.55,46.78,"8591 Main St, Springfield, Missouri",shipped,bank_transfer,Missouri,Springfield
+735,940,2025-06-28,1567.81,32.07,"613 Pine Rd, Springfield, Missouri",completed,paypal,Missouri,Springfield
+736,833,2025-06-05,1390.32,25.11,"332 Oak Ave, Springfield, Missouri",pending,credit_card,Missouri,Springfield
+737,137,2025-03-02,578.97,10.89,"3916 Oak Ave, Columbia, Missouri",pending,paypal,Missouri,Columbia
+738,390,2025-04-03,1017.36,11.36,"2515 Pine Rd, Columbia, Missouri",pending,paypal,Missouri,Columbia
+739,68,2025-02-11,3235.05,14.53,"2887 Oak Ave, Columbia, Missouri",shipped,credit_card,Missouri,Columbia
+740,577,2025-03-16,2805.61,16.75,"7759 Pine Rd, Columbia, Missouri",completed,paypal,Missouri,Columbia
+741,728,2025-02-23,2974.7,12.72,"7516 Oak Ave, Columbia, Missouri",completed,credit_card,Missouri,Columbia
+742,659,2025-05-02,3709.83,24.47,"9737 Pine Rd, Columbia, Missouri",completed,paypal,Missouri,Columbia
+743,175,2025-05-04,2784.24,37.45,"9876 Elm St, Baltimore, Maryland",shipped,bank_transfer,Maryland,Baltimore
+744,250,2025-04-09,3204.75,28.89,"6601 Pine Rd, Baltimore, Maryland",pending,paypal,Maryland,Baltimore
+745,77,2025-03-25,3195.31,44.29,"9701 Oak Ave, Baltimore, Maryland",shipped,bank_transfer,Maryland,Baltimore
+746,235,2025-04-27,2230.25,27.65,"6254 Oak Ave, Baltimore, Maryland",shipped,credit_card,Maryland,Baltimore
+747,597,2025-07-08,2767.26,46.97,"6590 Main St, Baltimore, Maryland",shipped,credit_card,Maryland,Baltimore
+748,173,2025-07-16,2001.07,9.17,"6437 Pine Rd, Baltimore, Maryland",pending,credit_card,Maryland,Baltimore
+749,805,2025-02-06,4003.45,19.22,"4177 Pine Rd, Baltimore, Maryland",completed,paypal,Maryland,Baltimore
+750,778,2025-02-08,4694.72,25.73,"1588 Pine Rd, Baltimore, Maryland",pending,credit_card,Maryland,Baltimore
+751,967,2025-06-26,2461.89,31.42,"3962 Main St, Baltimore, Maryland",pending,paypal,Maryland,Baltimore
+752,429,2025-06-29,1911.91,35.64,"9087 Pine Rd, Baltimore, Maryland",pending,bank_transfer,Maryland,Baltimore
+753,897,2025-07-03,3060.45,11.43,"9698 Pine Rd, Baltimore, Maryland",completed,credit_card,Maryland,Baltimore
+754,415,2025-04-03,181.1,22.08,"1560 Main St, Baltimore, Maryland",pending,credit_card,Maryland,Baltimore
+755,991,2025-03-19,3919.23,8.39,"2797 Pine Rd, Baltimore, Maryland",shipped,paypal,Maryland,Baltimore
+756,144,2025-04-06,2423.1,39.12,"3431 Main St, Baltimore, Maryland",shipped,credit_card,Maryland,Baltimore
+757,696,2025-06-09,3018.96,15.15,"9024 Oak Ave, Annapolis, Maryland",completed,credit_card,Maryland,Annapolis
+758,440,2025-07-15,953.78,42.79,"5619 Main St, Annapolis, Maryland",pending,credit_card,Maryland,Annapolis
+759,174,2025-04-13,1419.77,19.62,"9397 Pine Rd, Annapolis, Maryland",completed,credit_card,Maryland,Annapolis
+760,267,2025-05-23,597.94,20.16,"8579 Main St, Annapolis, Maryland",completed,paypal,Maryland,Annapolis
+761,64,2025-05-30,3939.59,42.32,"1665 Pine Rd, Annapolis, Maryland",shipped,bank_transfer,Maryland,Annapolis
+762,305,2025-06-06,1621.67,43.85,"5246 Main St, Frederick, Maryland",pending,paypal,Maryland,Frederick
+763,587,2025-06-26,993.99,15.56,"2910 Elm St, Frederick, Maryland",pending,paypal,Maryland,Frederick
+764,835,2025-07-12,2145.67,40.78,"9985 Oak Ave, Frederick, Maryland",completed,bank_transfer,Maryland,Frederick
+765,686,2025-03-26,356.38,24.05,"2005 Pine Rd, Frederick, Maryland",pending,credit_card,Maryland,Frederick
+766,75,2025-07-03,4972.53,22.77,"3232 Pine Rd, Frederick, Maryland",shipped,paypal,Maryland,Frederick
+767,827,2025-02-11,623.95,19.32,"1144 Main St, Frederick, Maryland",shipped,credit_card,Maryland,Frederick
+768,792,2025-03-25,4271.09,23.14,"8424 Pine Rd, Frederick, Maryland",completed,paypal,Maryland,Frederick
+769,424,2025-03-24,454.12,40.64,"6438 Main St, Frederick, Maryland",completed,bank_transfer,Maryland,Frederick
+770,922,2025-05-24,2881.29,31.41,"6777 Elm St, Frederick, Maryland",shipped,credit_card,Maryland,Frederick
+771,490,2025-07-20,4860.37,26.65,"9887 Elm St, Frederick, Maryland",completed,paypal,Maryland,Frederick
+772,607,2025-04-05,2403.02,30.2,"3606 Elm St, Frederick, Maryland",pending,credit_card,Maryland,Frederick
+773,343,2025-05-26,4658.89,33.37,"4285 Oak Ave, Frederick, Maryland",completed,credit_card,Maryland,Frederick
+774,620,2025-05-29,284.44,45.28,"8416 Pine Rd, Frederick, Maryland",completed,paypal,Maryland,Frederick
+775,962,2025-07-04,1203.78,49.86,"5838 Pine Rd, Rockville, Maryland",completed,credit_card,Maryland,Rockville
+776,917,2025-07-31,3782.88,28.74,"3197 Elm St, Rockville, Maryland",completed,bank_transfer,Maryland,Rockville
+777,746,2025-03-27,4215.55,20.96,"5742 Main St, Rockville, Maryland",completed,credit_card,Maryland,Rockville
+778,299,2025-05-05,4657.84,12.83,"7128 Elm St, Rockville, Maryland",shipped,paypal,Maryland,Rockville
+779,497,2025-06-12,4903.41,20.48,"9690 Oak Ave, Rockville, Maryland",completed,bank_transfer,Maryland,Rockville
+780,402,2025-07-09,1941.66,40.54,"6668 Pine Rd, Denver, Colorado",shipped,paypal,Colorado,Denver
+781,122,2025-06-04,2567.02,29.43,"7357 Main St, Denver, Colorado",pending,credit_card,Colorado,Denver
+782,872,2025-02-20,2902.68,25.27,"9839 Pine Rd, Denver, Colorado",completed,paypal,Colorado,Denver
+783,631,2025-04-21,2052.99,16.64,"2690 Elm St, Denver, Colorado",pending,bank_transfer,Colorado,Denver
+784,653,2025-03-02,1268.66,48.61,"4428 Main St, Denver, Colorado",shipped,credit_card,Colorado,Denver
+785,975,2025-04-16,3004.49,11.17,"5858 Pine Rd, Denver, Colorado",shipped,paypal,Colorado,Denver
+786,912,2025-04-09,4426.18,9.96,"3904 Pine Rd, Denver, Colorado",pending,bank_transfer,Colorado,Denver
+787,257,2025-02-18,1512.42,35.29,"8497 Main St, Denver, Colorado",pending,bank_transfer,Colorado,Denver
+788,244,2025-04-23,4399.33,42.2,"2539 Elm St, Denver, Colorado",completed,bank_transfer,Colorado,Denver
+789,706,2025-06-27,1624.78,27.13,"4115 Pine Rd, Denver, Colorado",pending,credit_card,Colorado,Denver
+790,528,2025-02-03,2533.81,43.57,"6926 Oak Ave, Denver, Colorado",shipped,bank_transfer,Colorado,Denver
+791,97,2025-07-18,2894.89,30.15,"5607 Main St, Denver, Colorado",shipped,paypal,Colorado,Denver
+792,428,2025-06-11,2196.73,42.97,"7114 Pine Rd, Denver, Colorado",pending,credit_card,Colorado,Denver
+793,156,2025-02-12,2645.86,21.27,"5495 Oak Ave, Denver, Colorado",shipped,paypal,Colorado,Denver
+794,427,2025-03-16,3371.92,19.13,"7688 Main St, Colorado Springs, Colorado",completed,credit_card,Colorado,Colorado Springs
+795,676,2025-06-11,3514.46,12.21,"7902 Oak Ave, Colorado Springs, Colorado",shipped,paypal,Colorado,Colorado Springs
+796,819,2025-03-13,1337.18,17.12,"1211 Oak Ave, Colorado Springs, Colorado",completed,credit_card,Colorado,Colorado Springs
+797,887,2025-07-01,2594.01,12.67,"367 Main St, Colorado Springs, Colorado",completed,paypal,Colorado,Colorado Springs
+798,784,2025-04-23,445.22,41.77,"7633 Elm St, Colorado Springs, Colorado",shipped,paypal,Colorado,Colorado Springs
+799,976,2025-06-11,3022.38,16.83,"5662 Oak Ave, Aurora, Colorado",pending,credit_card,Colorado,Aurora
+800,351,2025-07-08,1913.13,34.87,"3584 Pine Rd, Aurora, Colorado",shipped,paypal,Colorado,Aurora
+801,828,2025-03-31,4609.01,11.85,"4205 Elm St, Aurora, Colorado",completed,paypal,Colorado,Aurora
+802,857,2025-02-24,838.61,49.53,"5873 Main St, Aurora, Colorado",pending,credit_card,Colorado,Aurora
+803,597,2025-06-17,2956.14,10.82,"3290 Main St, Aurora, Colorado",completed,credit_card,Colorado,Aurora
+804,733,2025-04-23,1829.6,38.84,"6170 Pine Rd, Aurora, Colorado",completed,bank_transfer,Colorado,Aurora
+805,49,2025-04-21,2966.87,49.77,"8876 Pine Rd, Aurora, Colorado",completed,paypal,Colorado,Aurora
+806,110,2025-05-04,3313.0,26.42,"421 Main St, Aurora, Colorado",pending,bank_transfer,Colorado,Aurora
+807,740,2025-08-02,4878.32,15.09,"3789 Main St, Aurora, Colorado",pending,bank_transfer,Colorado,Aurora
+808,692,2025-07-28,344.05,18.81,"9024 Pine Rd, Fort Collins, Colorado",completed,bank_transfer,Colorado,Fort Collins
+809,354,2025-03-11,2521.94,48.27,"1927 Main St, Fort Collins, Colorado",pending,paypal,Colorado,Fort Collins
+810,659,2025-03-11,3103.03,7.53,"7989 Main St, Fort Collins, Colorado",completed,credit_card,Colorado,Fort Collins
+811,388,2025-05-10,2831.93,5.19,"9299 Oak Ave, Fort Collins, Colorado",completed,paypal,Colorado,Fort Collins
+812,217,2025-05-17,4508.18,30.05,"4394 Pine Rd, Fort Collins, Colorado",pending,bank_transfer,Colorado,Fort Collins
+813,295,2025-05-09,2934.67,10.33,"8473 Elm St, Fort Collins, Colorado",shipped,bank_transfer,Colorado,Fort Collins
+814,343,2025-02-07,3639.41,48.73,"951 Elm St, Fort Collins, Colorado",pending,bank_transfer,Colorado,Fort Collins
+815,280,2025-02-05,3061.72,7.89,"7311 Oak Ave, Fort Collins, Colorado",completed,paypal,Colorado,Fort Collins
+816,116,2025-05-22,3559.52,22.72,"1563 Oak Ave, Fort Collins, Colorado",pending,paypal,Colorado,Fort Collins
+817,721,2025-05-10,4815.68,16.61,"2242 Elm St, Fort Collins, Colorado",pending,paypal,Colorado,Fort Collins
+818,929,2025-07-28,1011.17,9.48,"5193 Pine Rd, Fort Collins, Colorado",shipped,credit_card,Colorado,Fort Collins
+819,751,2025-06-07,1271.84,21.17,"1721 Elm St, Fort Collins, Colorado",completed,paypal,Colorado,Fort Collins
+820,685,2025-06-06,1261.3,12.92,"4553 Elm St, Fort Collins, Colorado",completed,bank_transfer,Colorado,Fort Collins
+821,682,2025-04-30,1897.85,34.7,"620 Oak Ave, Fort Collins, Colorado",shipped,paypal,Colorado,Fort Collins
+822,350,2025-03-08,436.91,27.44,"9590 Pine Rd, Fort Collins, Colorado",shipped,credit_card,Colorado,Fort Collins

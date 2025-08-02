@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "name": "Sistem Yöneticisi",
+      "role": "admin",
+      "email": "admin@teknoloji.com"
+    },
+    {
+      "id": 2,
+      "username": "manager",
+      "password": "manager123",
+      "name": "Satış Müdürü",
+      "role": "manager",
+      "email": "manager@teknoloji.com"
+    },
+    {
+      "id": 3,
+      "username": "analyst",
+      "password": "analyst123",
+      "name": "Veri Analisti",
+      "role": "analyst",
+      "email": "analyst@teknoloji.com"
+    }
+  ]
+} 
