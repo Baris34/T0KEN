@@ -1,0 +1,180 @@
+category_id,category_name,parent_category,created_at
+1,Smartphones,Electronics,2023-10-07T18:21:22.249428
+2,Laptops,Electronics,2024-08-09T15:21:20.057392
+3,Tablets,Electronics,2024-08-25T14:12:07.136934
+4,Cameras,Electronics,2024-07-02T05:37:42.784417
+5,Televisions,Electronics,2024-09-11T15:18:54.079818
+6,Headphones,Electronics,2024-08-08T22:16:30.784784
+7,Men's Clothing,Clothing,2024-01-04T17:28:03.296119
+8,Women's Clothing,Clothing,2025-05-27T23:56:16.594911
+9,Children's Clothing,Clothing,2024-12-16T15:29:48.175898
+10,Sportswear,Clothing,2023-11-14T10:17:11.670935
+11,Outerwear,Clothing,2024-12-13T06:52:40.859300
+12,Fiction,Books,2024-08-15T12:14:57.695256
+13,Non-fiction,Books,2024-05-12T00:48:45.261429
+14,Children's Books,Books,2024-08-02T04:33:20.946276
+15,Textbooks,Books,2025-05-08T14:58:25.629936
+16,Comics,Books,2023-11-19T03:48:33.863497
+17,Educational,Books,2024-02-18T04:22:28.489768
+18,Furniture,Home & Garden,2024-02-05T03:01:17.578526
+19,Bedding,Home & Garden,2025-06-01T22:26:18.988682
+20,Decor,Home & Garden,2025-02-04T00:46:50.824279
+21,Gardening Tools,Home & Garden,2024-02-20T04:15:59.164060
+22,Lighting,Home & Garden,2025-01-16T11:32:35.152661
+23,Tools,Home & Garden,2025-05-05T22:50:30.436770
+24,Exercise Equipment,Sports & Outdoors,2024-11-18T05:54:03.851048
+25,Camping Gear,Sports & Outdoors,2024-12-27T20:12:02.248407
+26,Cycling,Sports & Outdoors,2024-09-15T13:58:34.205121
+27,Team Sports,Sports & Outdoors,2024-06-01T19:26:17.888872
+28,Fitness Apparel,Sports & Outdoors,2024-08-30T15:48:28.704112
+29,Fishing,Sports & Outdoors,2025-04-18T08:17:30.824950
+30,Makeup,Health & Beauty,2025-03-10T15:53:02.488104
+31,Skincare,Health & Beauty,2025-04-27T20:02:52.335805
+32,Haircare,Health & Beauty,2024-03-13T20:39:57.314878
+33,Supplements,Health & Beauty,2024-12-17T10:55:50.343245
+34,Personal Care,Health & Beauty,2024-03-28T10:10:31.486688
+35,Fragrances,Health & Beauty,2024-07-31T14:32:55.110038
+36,Action Figures,Toys & Games,2025-06-07T11:03:42.948651
+37,Board Games,Toys & Games,2025-01-09T18:30:37.694095
+38,Dolls,Toys & Games,2025-03-24T07:45:18.353416
+39,Educational Toys,Toys & Games,2023-08-24T08:01:46.149946
+40,Puzzles,Toys & Games,2023-10-30T14:58:55.700859
+41,Car Accessories,Automotive,2024-06-04T01:12:24.463569
+42,Tires,Automotive,2024-09-16T06:56:51.963681
+43,Motor Oils,Automotive,2025-01-01T21:42:37.494618
+44,Car Electronics,Automotive,2024-10-04T20:10:24.195281
+45,Tools,Automotive,2025-05-03T05:05:55.999810
+46,Snacks,Food & Beverages,2025-03-26T14:49:38.532164
+47,Beverages,Food & Beverages,2025-03-21T09:42:36.194366
+48,Gourmet,Food & Beverages,2025-03-07T19:47:59.395975
+49,Organic Food,Food & Beverages,2024-02-21T10:03:04.245821
+50,Baking,Food & Beverages,2024-08-15T14:47:49.849494
+51,Condiments,Food & Beverages,2024-10-26T19:47:06.685633
+52,Necklaces,Jewelry,2025-05-10T14:20:26.132837
+53,Rings,Jewelry,2024-06-11T21:35:51.229212
+54,Bracelets,Jewelry,2023-09-15T16:37:10.194964
+55,Earrings,Jewelry,2023-07-28T08:10:47.427446
+56,Watches,Jewelry,2024-03-13T13:10:34.265745
+57,Men's Shoes,Shoes,2024-09-13T22:42:56.174165
+58,Women's Shoes,Shoes,2024-02-21T10:12:30.587182
+59,Children's Shoes,Shoes,2025-06-22T02:21:55.580899
+60,Athletic Shoes,Shoes,2025-05-23T20:18:11.444768
+61,Boots,Shoes,2025-03-01T03:58:25.371370
+62,Sandals,Shoes,2025-02-13T20:12:14.780049
+63,Baby Clothing,Baby & Kids,2025-02-17T10:03:51.286807
+64,Toys,Baby & Kids,2023-12-15T09:21:26.743616
+65,Diapers,Baby & Kids,2024-07-14T09:30:50.537673
+66,Car Seats,Baby & Kids,2025-04-16T03:49:07.241763
+67,Feeding,Baby & Kids,2024-08-02T22:10:34.164948
+68,Safety,Baby & Kids,2024-04-28T14:34:50.786480
+69,Pet Food,Pet Supplies,2024-08-03T03:23:47.979364
+70,Pet Toys,Pet Supplies,2023-09-16T11:02:35.347878
+71,Pet Beds,Pet Supplies,2024-12-29T05:54:05.755872
+72,Leashes & Collars,Pet Supplies,2024-10-26T00:27:28.534142
+73,Grooming,Pet Supplies,2023-12-18T04:08:28.894857
+74,Training,Pet Supplies,2024-07-19T02:22:39.011189
+75,Pens & Pencils,Office Supplies,2025-01-17T03:22:21.862360
+76,Notebooks,Office Supplies,2025-03-28T22:48:15.474948
+77,Desk Organizers,Office Supplies,2023-10-09T03:51:57.792095
+78,Printers,Office Supplies,2023-09-15T16:02:11.133819
+79,Filing,Office Supplies,2024-01-13T08:29:59.516278
+80,Office Furniture,Office Supplies,2025-07-07T03:15:21.821993
+81,Power Tools,Tools & Hardware,2024-07-10T23:53:37.166563
+82,Hand Tools,Tools & Hardware,2024-08-14T09:23:28.347371
+83,Tool Storage,Tools & Hardware,2024-02-03T18:53:03.674085
+84,Fasteners,Tools & Hardware,2025-05-17T06:25:58.225962
+85,Safety Gear,Tools & Hardware,2024-09-10T21:45:13.264381
+86,Plumbing,Tools & Hardware,2025-04-26T03:17:15.181971
+87,CDs,Music & Movies,2023-08-03T09:15:24.627624
+88,Vinyl,Music & Movies,2025-02-17T12:11:57.554048
+89,DVDs,Music & Movies,2024-11-08T12:43:05.808934
+90,Blu-ray,Music & Movies,2025-04-10T18:23:44.817112
+91,Streaming,Music & Movies,2025-03-25T03:26:36.014130
+92,Merchandise,Music & Movies,2024-09-08T07:00:24.442971
+93,Paints,Art & Crafts,2025-03-26T18:14:33.470209
+94,Drawing Supplies,Art & Crafts,2025-03-17T14:35:47.281324
+95,Craft Kits,Art & Crafts,2024-06-07T02:37:12.591602
+96,Canvas & Paper,Art & Crafts,2024-09-11T09:13:37.990655
+97,Beading,Art & Crafts,2024-04-13T09:42:47.888288
+98,Paper Crafts,Art & Crafts,2023-11-02T19:12:16.528462
+99,Luggage,Travel,2025-04-07T02:19:48.498939
+100,Travel Accessories,Travel,2025-05-23T05:46:18.648208
+101,Guides,Travel,2024-09-17T07:23:20.246750
+102,Travel Clothing,Travel,2023-12-26T06:35:07.689039
+103,Backpacks,Travel,2025-02-13T09:52:45.811747
+104,Apparel,Travel,2023-09-21T03:46:20.829455
+105,Cookware,Kitchen & Dining,2025-03-14T10:35:12.480683
+106,Dinnerware,Kitchen & Dining,2024-03-02T12:42:33.161297
+107,Cutlery,Kitchen & Dining,2024-07-20T10:11:54.674793
+108,Appliances,Kitchen & Dining,2025-01-16T07:36:20.047049
+109,Bakeware,Kitchen & Dining,2025-01-19T00:13:48.133921
+110,Dining,Kitchen & Dining,2024-06-21T06:27:39.425466
+111,Utensils,Kitchen & Dining,2025-01-14T23:04:18.885986
+112,Sofas,Furniture,2025-01-29T10:11:42.250546
+113,Beds,Furniture,2024-11-17T11:23:16.788325
+114,Tables,Furniture,2023-12-07T09:21:19.875458
+115,Chairs,Furniture,2024-11-20T16:30:07.225578
+116,Cabinets,Furniture,2023-08-01T10:07:09.654931
+117,Living Room,Furniture,2025-01-11T14:37:07.995233
+118,Outdoor,Furniture,2023-10-14T20:19:27.668230
+119,Office,Furniture,2024-01-09T23:19:08.054443
+120,Veterinary Services,Pet Care,2024-09-16T18:58:30.276849
+121,Pet Grooming,Pet Care,2023-07-25T10:52:09.778334
+122,Pet Medications,Pet Care,2025-06-17T00:20:26.527726
+123,Food & Treats,Pet Care,2024-08-09T21:52:55.919255
+124,Supplements,Pet Care,2025-03-31T19:21:09.019108
+125,Healthcare,Pet Care,2025-07-06T04:14:37.516649
+126,Plants,Garden & Outdoor,2024-02-27T08:39:11.863205
+127,Gardening Tools,Garden & Outdoor,2024-10-31T22:51:58.435786
+128,Outdoor Furniture,Garden & Outdoor,2024-03-04T00:58:00.917347
+129,BBQ Grills,Garden & Outdoor,2023-10-14T09:50:28.571775
+130,Grilling,Garden & Outdoor,2024-12-27T08:06:01.351022
+131,Landscape,Garden & Outdoor,2023-08-17T16:51:01.388377
+132,Lab Equipment,Industrial & Scientific,2023-08-29T23:31:29.809861
+133,Measuring Instruments,Industrial & Scientific,2024-08-08T19:14:36.898352
+134,Safety Supplies,Industrial & Scientific,2025-03-12T11:07:35.973690
+135,Sensors,Industrial & Scientific,2025-02-19T11:05:00.508047
+136,Adhesives,Industrial & Scientific,2025-04-02T19:38:02.254131
+137,Professional Tools,Industrial & Scientific,2024-12-22T17:09:33.882761
+138,Handmade Jewelry,Handmade,2023-08-18T00:48:32.488108
+139,Handmade Home Decor,Handmade,2024-03-13T05:42:32.658388
+140,Handmade Clothing,Handmade,2025-04-20T03:43:59.535686
+141,Toys,Handmade,2024-02-21T11:45:14.511640
+142,Art,Handmade,2024-12-20T20:32:16.674116
+143,Organic,Grocery & Gourmet Food,2023-12-15T17:39:24.333308
+144,Snacks,Grocery & Gourmet Food,2023-09-06T17:29:56.842324
+145,Baking Supplies,Grocery & Gourmet Food,2024-03-24T13:38:10.060403
+146,Dairy,Grocery & Gourmet Food,2024-12-08T02:11:53.924433
+147,Pantry,Grocery & Gourmet Food,2025-02-11T17:32:31.657794
+148,Specialty,Grocery & Gourmet Food,2024-07-14T06:52:38.643618
+149,Coins,Collectibles,2024-04-19T18:22:47.745529
+150,Stamps,Collectibles,2024-05-06T12:35:38.305938
+151,Action Figures,Collectibles,2025-05-16T05:29:08.662974
+152,Comics,Collectibles,2023-09-13T10:33:46.443351
+153,Trading Cards,Collectibles,2024-12-03T00:18:13.673129
+154,Memorabilia,Collectibles,2024-07-24T02:59:08.856157
+155,Figurines,Collectibles,2024-09-27T19:32:24.673671
+156,Concert Tickets,Tickets & Experiences,2024-09-04T23:57:43.831413
+157,Sporting Event Tickets,Tickets & Experiences,2023-12-17T11:45:45.010182
+158,Theater Tickets,Tickets & Experiences,2024-01-10T14:27:18.545022
+159,Travel Packages,Tickets & Experiences,2024-10-11T18:21:32.105387
+160,Tours,Tickets & Experiences,2024-12-13T07:37:39.954420
+161,Workshops,Tickets & Experiences,2024-10-17T13:43:24.866254
+162,Guitars,Musical Instruments,2024-08-18T14:45:35.774282
+163,Pianos,Musical Instruments,2025-06-29T08:39:17.254398
+164,Drums,Musical Instruments,2025-06-30T04:43:07.654887
+165,Wind Instruments,Musical Instruments,2025-03-23T13:38:50.738174
+166,Keyboards,Musical Instruments,2024-05-27T02:00:55.687895
+167,Accessories,Musical Instruments,2024-04-10T17:02:55.448884
+168,Video Games,Games & Virtual Goods,2025-06-14T21:30:24.659708
+169,Game Accessories,Games & Virtual Goods,2024-06-10T19:28:03.557204
+170,In-game Currency,Games & Virtual Goods,2024-01-13T18:07:01.512391
+171,DLC,Games & Virtual Goods,2024-11-04T03:00:33.822852
+172,e-Books,Games & Virtual Goods,2025-04-06T14:36:12.931496
+173,Software,Games & Virtual Goods,2025-03-08T02:58:55.214914
+174,Notebooks,Stationery,2024-01-08T17:07:25.836200
+175,Pens,Stationery,2024-07-07T19:47:40.812894
+176,Art Supplies,Stationery,2023-11-30T15:41:20.408471
+177,Organizers,Stationery,2024-03-27T02:24:22.144225
+178,Greeting Cards,Stationery,2025-04-18T14:56:12.817964
+179,Planners,Stationery,2023-09-29T19:12:01.840722

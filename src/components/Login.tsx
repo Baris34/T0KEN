@@ -49,7 +49,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
             <BarChart3 className="h-8 w-8 text-white" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-2">
-            Teknoloji Dashboard
+            Analytica
           </h2>
           <p className="text-gray-600">
             Satış analizi ve stok yönetimi sistemi
@@ -117,8 +117,6 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
             <h4 className="text-sm font-medium text-gray-700 mb-3">Test Kullanıcıları:</h4>
             <div className="space-y-2 text-xs text-gray-600">
               <div><strong>Admin:</strong> admin / admin123</div>
-              <div><strong>Manager:</strong> manager / manager123</div>
-              <div><strong>Analyst:</strong> analyst / analyst123</div>
             </div>
           </div>
         </div>

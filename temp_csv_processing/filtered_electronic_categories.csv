@@ -1,0 +1,7 @@
+category_id,category_name,parent_category,created_at
+1,Smartphones,Electronics,2023-10-07T18:21:22.249428
+2,Laptops,Electronics,2024-08-09T15:21:20.057392
+3,Tablets,Electronics,2024-08-25T14:12:07.136934
+4,Cameras,Electronics,2024-07-02T05:37:42.784417
+5,Televisions,Electronics,2024-09-11T15:18:54.079818
+6,Headphones,Electronics,2024-08-08T22:16:30.784784
